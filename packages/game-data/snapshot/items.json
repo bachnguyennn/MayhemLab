@@ -1,0 +1,4671 @@
+[
+ {
+  "id": 1001,
+  "name": "Boots",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Move Speed",
+  "stats": {
+   "FlatMovementSpeedMod": 25
+  },
+  "tags": [
+   "Boots"
+  ],
+  "cost": 300,
+  "buildsFrom": [],
+  "buildsInto": [
+   3005,
+   3047,
+   3008,
+   3006,
+   3009,
+   3010,
+   3020,
+   3111,
+   3117,
+   3158
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1001.png"
+ },
+ {
+  "id": 1004,
+  "name": "Faerie Charm",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Mana Regen",
+  "stats": {},
+  "tags": [
+   "ManaRegen"
+  ],
+  "cost": 200,
+  "buildsFrom": [],
+  "buildsInto": [
+   3114,
+   3012,
+   4642
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1004.png"
+ },
+ {
+  "id": 1006,
+  "name": "Rejuvenation Bead",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Health Regen",
+  "stats": {},
+  "tags": [
+   "HealthRegen"
+  ],
+  "cost": 300,
+  "buildsFrom": [],
+  "buildsInto": [
+   3109,
+   3211,
+   323109,
+   3801
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1006.png"
+ },
+ {
+  "id": 1011,
+  "name": "Giant's Belt",
+  "patch": "16.22.1",
+  "summary": "Greatly increases Health",
+  "stats": {
+   "FlatHPPoolMod": 350
+  },
+  "tags": [
+   "Health"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1028
+  ],
+  "buildsInto": [
+   4637,
+   3084,
+   2525,
+   3039,
+   3083,
+   3116,
+   3119,
+   3143,
+   323119,
+   3748,
+   6665,
+   6609,
+   6667,
+   8001
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1011.png"
+ },
+ {
+  "id": 1018,
+  "name": "Cloak of Agility",
+  "patch": "16.22.1",
+  "summary": "Increases critical strike chance",
+  "stats": {
+   "FlatCritChanceMod": 0.15
+  },
+  "tags": [
+   "CriticalStrike"
+  ],
+  "cost": 600,
+  "buildsFrom": [],
+  "buildsInto": [
+   123430,
+   667666,
+   3031,
+   3086,
+   6670,
+   3033,
+   3039,
+   3508,
+   3095,
+   6676
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1018.png"
+ },
+ {
+  "id": 1026,
+  "name": "Blasting Wand",
+  "patch": "16.22.1",
+  "summary": "Moderately increases Ability Power",
+  "stats": {
+   "FlatMagicDamageMod": 45
+  },
+  "tags": [
+   "SpellDamage"
+  ],
+  "cost": 850,
+  "buildsFrom": [],
+  "buildsInto": [
+   2522,
+   3100,
+   326621,
+   4637,
+   3135,
+   3165,
+   3115,
+   324005,
+   2510,
+   3116,
+   3118,
+   326657,
+   6621,
+   6657
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1026.png"
+ },
+ {
+  "id": 1027,
+  "name": "Sapphire Crystal",
+  "patch": "16.22.1",
+  "summary": "Increases Mana",
+  "stats": {
+   "FlatMPPoolMod": 300
+  },
+  "tags": [
+   "Mana"
+  ],
+  "cost": 300,
+  "buildsFrom": [],
+  "buildsInto": [
+   3024,
+   3802,
+   3803
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1027.png"
+ },
+ {
+  "id": 1028,
+  "name": "Ruby Crystal",
+  "patch": "16.22.1",
+  "summary": "Increases Health",
+  "stats": {
+   "FlatHPPoolMod": 150
+  },
+  "tags": [
+   "Health"
+  ],
+  "cost": 400,
+  "buildsFrom": [],
+  "buildsInto": [
+   3742,
+   1011,
+   3068,
+   2021,
+   323222,
+   323075,
+   326617,
+   323107,
+   3012,
+   3147,
+   3067,
+   3211,
+   2502,
+   322526,
+   2526,
+   3023,
+   3044,
+   3053,
+   3066,
+   3075,
+   3152,
+   3161,
+   3801,
+   3803,
+   4401,
+   4635,
+   6035,
+   6660,
+   6662
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1028.png"
+ },
+ {
+  "id": 1029,
+  "name": "Cloth Armor",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Armor",
+  "stats": {
+   "FlatArmorMod": 15
+  },
+  "tags": [
+   "Armor"
+  ],
+  "cost": 300,
+  "buildsFrom": [],
+  "buildsInto": [
+   2421,
+   2420,
+   1031,
+   323050,
+   323190,
+   2019,
+   3193,
+   3047,
+   3024,
+   3050,
+   2524,
+   3023,
+   3076,
+   3082,
+   3105,
+   3190
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1029.png"
+ },
+ {
+  "id": 1031,
+  "name": "Chain Vest",
+  "patch": "16.22.1",
+  "summary": "Greatly increases Armor",
+  "stats": {
+   "FlatArmorMod": 40
+  },
+  "tags": [
+   "Armor"
+  ],
+  "cost": 800,
+  "buildsFrom": [
+   1029
+  ],
+  "buildsInto": [
+   3742,
+   3068,
+   323002,
+   3109,
+   323075,
+   2502,
+   3002,
+   3075,
+   323109,
+   6665,
+   6662
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1031.png"
+ },
+ {
+  "id": 1033,
+  "name": "Null-Magic Mantle",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Magic Resist",
+  "stats": {
+   "FlatSpellBlockMod": 20
+  },
+  "tags": [
+   "SpellBlock"
+  ],
+  "cost": 400,
+  "buildsFrom": [],
+  "buildsInto": [
+   1057,
+   3140,
+   323050,
+   323190,
+   3193,
+   3050,
+   3001,
+   3211,
+   2524,
+   3155,
+   3105,
+   3111,
+   3190,
+   4632
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1033.png"
+ },
+ {
+  "id": 1036,
+  "name": "Long Sword",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Attack Damage",
+  "stats": {
+   "FlatPhysicalDamageMod": 10
+  },
+  "tags": [
+   "Damage",
+   "Lane"
+  ],
+  "cost": 350,
+  "buildsFrom": [],
+  "buildsInto": [
+   1053,
+   4003,
+   6701,
+   2015,
+   2019,
+   2021,
+   3077,
+   6670,
+   3133,
+   2517,
+   323004,
+   3142,
+   3004,
+   2523,
+   3032,
+   3035,
+   3044,
+   3051,
+   3155,
+   6690,
+   3123,
+   3134,
+   6699,
+   6671,
+   6692
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1036.png"
+ },
+ {
+  "id": 1037,
+  "name": "Pickaxe",
+  "patch": "16.22.1",
+  "summary": "Moderately increases Attack Damage",
+  "stats": {
+   "FlatPhysicalDamageMod": 25
+  },
+  "tags": [
+   "Damage"
+  ],
+  "cost": 875,
+  "buildsFrom": [],
+  "buildsInto": [
+   667666,
+   3071,
+   6333,
+   3031,
+   3153,
+   6701,
+   2020,
+   2517,
+   3087,
+   6695,
+   2523,
+   3053,
+   3072,
+   3124,
+   3181,
+   3139,
+   3161,
+   6029,
+   6035,
+   6673,
+   6676,
+   6692
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1037.png"
+ },
+ {
+  "id": 1038,
+  "name": "B. F. Sword",
+  "patch": "16.22.1",
+  "summary": "Greatly increases Attack Damage",
+  "stats": {
+   "FlatPhysicalDamageMod": 40
+  },
+  "tags": [
+   "Damage"
+  ],
+  "cost": 1300,
+  "buildsFrom": [],
+  "buildsInto": [
+   3031,
+   3026,
+   3032,
+   3072,
+   3095,
+   4403,
+   6671
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1038.png"
+ },
+ {
+  "id": 1042,
+  "name": "Dagger",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Attack Speed",
+  "stats": {
+   "PercentAttackSpeedMod": 0.1
+  },
+  "tags": [
+   "AttackSpeed"
+  ],
+  "cost": 250,
+  "buildsFrom": [],
+  "buildsInto": [
+   1043,
+   3086,
+   2510,
+   3006,
+   3046,
+   3051,
+   3073,
+   3131,
+   3144,
+   6631,
+   6675,
+   6677
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1042.png"
+ },
+ {
+  "id": 1043,
+  "name": "Recurve Bow",
+  "patch": "16.22.1",
+  "summary": "Greatly increases Attack Speed",
+  "stats": {
+   "PercentAttackSpeedMod": 0.15
+  },
+  "tags": [
+   "AttackSpeed",
+   "OnHit"
+  ],
+  "cost": 700,
+  "buildsFrom": [
+   1042
+  ],
+  "buildsInto": [
+   3302,
+   3153,
+   3115,
+   6672,
+   3091,
+   3124
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1043.png"
+ },
+ {
+  "id": 1052,
+  "name": "Amplifying Tome",
+  "patch": "16.22.1",
+  "summary": "Slightly increases Ability Power",
+  "stats": {
+   "FlatMagicDamageMod": 20
+  },
+  "tags": [
+   "SpellDamage"
+  ],
+  "cost": 400,
+  "buildsFrom": [],
+  "buildsInto": [
+   3113,
+   2421,
+   2420,
+   3145,
+   124011,
+   4637,
+   3916,
+   6656,
+   3147,
+   3146,
+   3802,
+   4005,
+   2508,
+   326616,
+   3108,
+   3116,
+   3124,
+   4630,
+   323504,
+   4628,
+   4632,
+   4635,
+   4642,
+   4644
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1052.png"
+ },
+ {
+  "id": 1053,
+  "name": "Vampiric Scepter",
+  "patch": "16.22.1",
+  "summary": "Basic attacks restore Health",
+  "stats": {
+   "FlatPhysicalDamageMod": 15,
+   "PercentLifeStealMod": 0.07
+  },
+  "tags": [
+   "Damage",
+   "LifeSteal"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1036
+  ],
+  "buildsInto": [
+   3153,
+   3146,
+   3072,
+   3074,
+   3139,
+   4403
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1053.png"
+ },
+ {
+  "id": 1054,
+  "name": "Doran's Shield",
+  "patch": "16.22.1",
+  "summary": "Good defensive starting item",
+  "stats": {
+   "FlatHPPoolMod": 110,
+   "FlatHPRegenMod": 0.8
+  },
+  "tags": [
+   "Health",
+   "HealthRegen",
+   "Lane"
+  ],
+  "cost": 450,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1054.png"
+ },
+ {
+  "id": 1055,
+  "name": "Doran's Blade",
+  "patch": "16.22.1",
+  "summary": "Good starting item for attackers",
+  "stats": {
+   "FlatHPPoolMod": 80,
+   "FlatPhysicalDamageMod": 10
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "LifeSteal",
+   "SpellVamp",
+   "Lane"
+  ],
+  "cost": 450,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1055.png"
+ },
+ {
+  "id": 1056,
+  "name": "Doran's Ring",
+  "patch": "16.22.1",
+  "summary": "Good starting item for casters",
+  "stats": {
+   "FlatHPPoolMod": 90,
+   "FlatMagicDamageMod": 18
+  },
+  "tags": [
+   "Health",
+   "Lane",
+   "ManaRegen",
+   "SpellDamage"
+  ],
+  "cost": 400,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1056.png"
+ },
+ {
+  "id": 1057,
+  "name": "Negatron Cloak",
+  "patch": "16.22.1",
+  "summary": "Moderately increases Magic Resist",
+  "stats": {
+   "FlatSpellBlockMod": 45
+  },
+  "tags": [
+   "SpellBlock"
+  ],
+  "cost": 850,
+  "buildsFrom": [
+   1033
+  ],
+  "buildsInto": [
+   2504,
+   8020,
+   328020,
+   3091,
+   6665,
+   4401
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1057.png"
+ },
+ {
+  "id": 1058,
+  "name": "Needlessly Large Rod",
+  "patch": "16.22.1",
+  "summary": "Greatly increases Ability Power",
+  "stats": {
+   "FlatMagicDamageMod": 65
+  },
+  "tags": [
+   "SpellDamage"
+  ],
+  "cost": 1200,
+  "buildsFrom": [],
+  "buildsInto": [
+   3157,
+   4645,
+   3089,
+   3102,
+   3128,
+   4403
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1058.png"
+ },
+ {
+  "id": 1086,
+  "name": "Doran's Bow",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 7,
+   "PercentAttackSpeedMod": 0.15
+  },
+  "tags": [
+   "Damage",
+   "AttackSpeed",
+   "SpellVamp",
+   "Lane"
+  ],
+  "cost": 400,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1086.png"
+ },
+ {
+  "id": 1120,
+  "name": "Doran's Helm",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatSpellBlockMod": 8,
+   "FlatHPPoolMod": 150,
+   "FlatArmorMod": 8
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "Armor",
+   "Lane"
+  ],
+  "cost": 450,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1120.png"
+ },
+ {
+  "id": 2019,
+  "name": "Steel Sigil",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatArmorMod": 30,
+   "FlatPhysicalDamageMod": 15
+  },
+  "tags": [
+   "Armor",
+   "Damage"
+  ],
+  "cost": 1100,
+  "buildsFrom": [
+   1029,
+   1036,
+   1029
+  ],
+  "buildsInto": [
+   6333,
+   6700,
+   3026
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2019.png"
+ },
+ {
+  "id": 2020,
+  "name": "The Brutalizer",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 25
+  },
+  "tags": [
+   "Damage",
+   "CooldownReduction",
+   "ArmorPenetration"
+  ],
+  "cost": 1337,
+  "buildsFrom": [
+   2022,
+   1037
+  ],
+  "buildsInto": [
+   6698,
+   2520,
+   6699,
+   6696
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2020.png"
+ },
+ {
+  "id": 2021,
+  "name": "Tunneler",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 250,
+   "FlatPhysicalDamageMod": 15
+  },
+  "tags": [
+   "Health",
+   "Damage"
+  ],
+  "cost": 1150,
+  "buildsFrom": [
+   1036,
+   1028
+  ],
+  "buildsInto": [
+   2501,
+   3053,
+   3073,
+   3814,
+   3181,
+   3161,
+   3748,
+   6610
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2021.png"
+ },
+ {
+  "id": 2022,
+  "name": "Glowing Mote",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {},
+  "tags": [
+   "CooldownReduction"
+  ],
+  "cost": 250,
+  "buildsFrom": [],
+  "buildsInto": [
+   2020,
+   3024,
+   3133,
+   3802,
+   3067,
+   3057,
+   3108,
+   3158,
+   4642,
+   6660
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2022.png"
+ },
+ {
+  "id": 2051,
+  "name": "Guardian's Horn",
+  "patch": "16.22.1",
+  "summary": "Good starting item for tanks",
+  "stats": {
+   "FlatHPPoolMod": 150,
+   "FlatHPRegenMod": 4
+  },
+  "tags": [
+   "Health",
+   "HealthRegen",
+   "Lane"
+  ],
+  "cost": 950,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2051.png"
+ },
+ {
+  "id": 2065,
+  "name": "Shurelya's Battlesong",
+  "patch": "16.22.1",
+  "summary": "Activate to speed up nearby allies.",
+  "stats": {
+   "FlatMagicDamageMod": 50,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "SpellDamage",
+   "ManaRegen",
+   "Active",
+   "CooldownReduction",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 2200,
+  "buildsFrom": [
+   3113,
+   4642
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2065.png"
+ },
+ {
+  "id": 2420,
+  "name": "Seeker's Armguard",
+  "patch": "16.22.1",
+  "summary": "Activate to become invincible but unable to take actions",
+  "stats": {
+   "FlatMagicDamageMod": 40,
+   "FlatArmorMod": 25
+  },
+  "tags": [
+   "Armor",
+   "SpellDamage",
+   "Active"
+  ],
+  "cost": 1600,
+  "buildsFrom": [
+   1052,
+   1029,
+   1052
+  ],
+  "buildsInto": [
+   3157
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2420.png"
+ },
+ {
+  "id": 2421,
+  "name": "Shattered Armguard",
+  "patch": "16.22.1",
+  "summary": "Upgrades to stopwatch",
+  "stats": {
+   "FlatMagicDamageMod": 40,
+   "FlatArmorMod": 25
+  },
+  "tags": [],
+  "cost": 1600,
+  "buildsFrom": [
+   1052,
+   1029,
+   1052
+  ],
+  "buildsInto": [
+   3157
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2421.png"
+ },
+ {
+  "id": 2501,
+  "name": "Overlord's Bloodmail",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 550,
+   "FlatPhysicalDamageMod": 40
+  },
+  "tags": [
+   "Health",
+   "Damage"
+  ],
+  "cost": 3300,
+  "buildsFrom": [
+   2021,
+   2021
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2501.png"
+ },
+ {
+  "id": 2502,
+  "name": "Unending Despair",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 400,
+   "FlatArmorMod": 50
+  },
+  "tags": [
+   "Health",
+   "Armor",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   1031,
+   3067,
+   1028
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2502.png"
+ },
+ {
+  "id": 2503,
+  "name": "Blackfire Torch",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMPPoolMod": 600,
+   "FlatMagicDamageMod": 80
+  },
+  "tags": [
+   "SpellDamage",
+   "Mana",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   3802,
+   2508
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2503.png"
+ },
+ {
+  "id": 2504,
+  "name": "Kaenic Rookern",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatSpellBlockMod": 80,
+   "FlatHPPoolMod": 400
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "HealthRegen"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3211,
+   1057
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2504.png"
+ },
+ {
+  "id": 2508,
+  "name": "Fated Ashes",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMagicDamageMod": 30
+  },
+  "tags": [
+   "SpellDamage"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1052
+  ],
+  "buildsInto": [
+   2503,
+   6653
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2508.png"
+ },
+ {
+  "id": 2510,
+  "name": "Dusk and Dawn",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 300,
+   "FlatMagicDamageMod": 60,
+   "PercentAttackSpeedMod": 0.2
+  },
+  "tags": [
+   "Health",
+   "AttackSpeed",
+   "SpellDamage",
+   "OnHit",
+   "AbilityHaste"
+  ],
+  "cost": 3100,
+  "buildsFrom": [
+   3057,
+   1026,
+   3067,
+   1042
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2510.png"
+ },
+ {
+  "id": 2512,
+  "name": "Fiendhunter Bolts",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "PercentAttackSpeedMod": 0.45,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "CriticalStrike",
+   "AttackSpeed",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 2650,
+  "buildsFrom": [
+   3086,
+   3144
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2512.png"
+ },
+ {
+  "id": 2517,
+  "name": "Endless Hunger",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 65
+  },
+  "tags": [
+   "Damage",
+   "LifeSteal",
+   "SpellVamp",
+   "Tenacity",
+   "AbilityHaste"
+  ],
+  "cost": 3100,
+  "buildsFrom": [
+   3133,
+   1037,
+   1036
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2517.png"
+ },
+ {
+  "id": 2522,
+  "name": "Actualizer",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMPPoolMod": 300,
+   "FlatMagicDamageMod": 90
+  },
+  "tags": [
+   "SpellDamage",
+   "Mana",
+   "AbilityHaste"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   3802,
+   1026
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2522.png"
+ },
+ {
+  "id": 2523,
+  "name": "Hexoptics C44",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 55
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   1037,
+   6670,
+   1036
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2523.png"
+ },
+ {
+  "id": 2524,
+  "name": "Bandlepipes",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatSpellBlockMod": 20,
+   "FlatHPPoolMod": 200,
+   "FlatArmorMod": 20
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "Armor",
+   "AttackSpeed",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 2300,
+  "buildsFrom": [
+   3067,
+   1029,
+   1033
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2524.png"
+ },
+ {
+  "id": 2525,
+  "name": "Protoplasm Harness",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 600
+  },
+  "tags": [
+   "Health",
+   "NonbootsMovement",
+   "Tenacity",
+   "AbilityHaste"
+  ],
+  "cost": 2600,
+  "buildsFrom": [
+   3067,
+   1011
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2525.png"
+ },
+ {
+  "id": 2526,
+  "name": "Whispering Circlet",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMPPoolMod": 300,
+   "FlatHPPoolMod": 200
+  },
+  "tags": [
+   "Health",
+   "Mana",
+   "ManaRegen"
+  ],
+  "cost": 2250,
+  "buildsFrom": [
+   3114,
+   1028,
+   3070
+  ],
+  "buildsInto": [
+   2530
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2526.png"
+ },
+ {
+  "id": 3003,
+  "name": "Archangel's Staff",
+  "patch": "16.22.1",
+  "summary": "Increases Ability Power based on maximum Mana",
+  "stats": {
+   "FlatMPPoolMod": 600,
+   "FlatMagicDamageMod": 70
+  },
+  "tags": [
+   "SpellDamage",
+   "Mana",
+   "AbilityHaste"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3070,
+   3802,
+   3108
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3003.png"
+ },
+ {
+  "id": 3004,
+  "name": "Manamune",
+  "patch": "16.22.1",
+  "summary": "Increases Attack Damage based on maximum Mana",
+  "stats": {
+   "FlatMPPoolMod": 500,
+   "FlatPhysicalDamageMod": 35
+  },
+  "tags": [
+   "Damage",
+   "Mana",
+   "CooldownReduction",
+   "OnHit",
+   "AbilityHaste"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3070,
+   3133,
+   1036
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3004.png"
+ },
+ {
+  "id": 3006,
+  "name": "Berserker's Greaves",
+  "patch": "16.22.1",
+  "summary": "Enhances Move Speed and Attack Speed",
+  "stats": {
+   "FlatMovementSpeedMod": 45,
+   "PercentAttackSpeedMod": 0.3
+  },
+  "tags": [
+   "AttackSpeed",
+   "Boots"
+  ],
+  "cost": 1100,
+  "buildsFrom": [
+   1001,
+   1042,
+   1042
+  ],
+  "buildsInto": [
+   3172
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3006.png"
+ },
+ {
+  "id": 3008,
+  "name": "Gluttonous Greaves",
+  "patch": "16.22.1",
+  "summary": "Increases Attack Damage based on maximum Mana",
+  "stats": {
+   "FlatMovementSpeedMod": 45
+  },
+  "tags": [
+   "LifeSteal",
+   "SpellVamp",
+   "Boots"
+  ],
+  "cost": 1100,
+  "buildsFrom": [
+   1001
+  ],
+  "buildsInto": [
+   3168
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3008.png"
+ },
+ {
+  "id": 3009,
+  "name": "Boots of Swiftness",
+  "patch": "16.22.1",
+  "summary": "Enhances Move Speed and reduces the effect of slows",
+  "stats": {
+   "FlatMovementSpeedMod": 55
+  },
+  "tags": [
+   "Boots"
+  ],
+  "cost": 1000,
+  "buildsFrom": [
+   1001
+  ],
+  "buildsInto": [
+   3170
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3009.png"
+ },
+ {
+  "id": 3020,
+  "name": "Sorcerer's Shoes",
+  "patch": "16.22.1",
+  "summary": "Enhances Move Speed and magic damage",
+  "stats": {
+   "FlatMovementSpeedMod": 45
+  },
+  "tags": [
+   "Boots",
+   "MagicPenetration"
+  ],
+  "cost": 1100,
+  "buildsFrom": [
+   1001
+  ],
+  "buildsInto": [
+   3175
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3020.png"
+ },
+ {
+  "id": 3024,
+  "name": "Glacial Buckler",
+  "patch": "16.22.1",
+  "summary": "Increases Armor and Cooldown Reduction",
+  "stats": {
+   "FlatMPPoolMod": 300,
+   "FlatArmorMod": 25
+  },
+  "tags": [
+   "Armor",
+   "Mana",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1029,
+   1027,
+   2022
+  ],
+  "buildsInto": [
+   323110,
+   3110
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3024.png"
+ },
+ {
+  "id": 3031,
+  "name": "Infinity Edge",
+  "patch": "16.22.1",
+  "summary": "Massively enhances critical strikes",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 75
+  },
+  "tags": [
+   "CriticalStrike",
+   "Damage"
+  ],
+  "cost": 3500,
+  "buildsFrom": [
+   1038,
+   1037,
+   1018
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3031.png"
+ },
+ {
+  "id": 3032,
+  "name": "Yun Tal Wildarrows",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 50,
+   "PercentAttackSpeedMod": 0.45
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike",
+   "AttackSpeed"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   1038,
+   3144,
+   1036
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3032.png"
+ },
+ {
+  "id": 3033,
+  "name": "Mortal Reminder",
+  "patch": "16.22.1",
+  "summary": "Overcomes enemies with high Health recovery and Armor",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 35
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike",
+   "ArmorPenetration"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3123,
+   3035,
+   1018
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3033.png"
+ },
+ {
+  "id": 3035,
+  "name": "Last Whisper",
+  "patch": "16.22.1",
+  "summary": "Overcomes enemies with high Armor",
+  "stats": {
+   "FlatPhysicalDamageMod": 20
+  },
+  "tags": [
+   "ArmorPenetration",
+   "Damage"
+  ],
+  "cost": 1450,
+  "buildsFrom": [
+   1036,
+   1036
+  ],
+  "buildsInto": [
+   3033,
+   3036,
+   6694
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3035.png"
+ },
+ {
+  "id": 3036,
+  "name": "Lord Dominik's Regards",
+  "patch": "16.22.1",
+  "summary": "Overcomes enemies with high health and armor",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 35
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike",
+   "ArmorPenetration"
+  ],
+  "cost": 3300,
+  "buildsFrom": [
+   3035,
+   6670
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3036.png"
+ },
+ {
+  "id": 3039,
+  "name": "Atma's Reckoning",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 700,
+   "FlatCritChanceMod": 0.2
+  },
+  "tags": [
+   "Health",
+   "CriticalStrike"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   1011,
+   1018,
+   1011
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3039.png"
+ },
+ {
+  "id": 3044,
+  "name": "Phage",
+  "patch": "16.22.1",
+  "summary": "Attacks and kills give a small burst of speed",
+  "stats": {
+   "FlatHPPoolMod": 200,
+   "FlatPhysicalDamageMod": 15
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "NonbootsMovement"
+  ],
+  "cost": 1100,
+  "buildsFrom": [
+   1028,
+   1036
+  ],
+  "buildsInto": [
+   3071,
+   3078,
+   3073,
+   6630,
+   6631
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3044.png"
+ },
+ {
+  "id": 3046,
+  "name": "Phantom Dancer",
+  "patch": "16.22.1",
+  "summary": "Move faster while attacking enemies and gain a shield when on low health.",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "PercentAttackSpeedMod": 0.65,
+   "PercentMovementSpeedMod": 0.1
+  },
+  "tags": [
+   "CriticalStrike",
+   "AttackSpeed",
+   "NonbootsMovement"
+  ],
+  "cost": 2650,
+  "buildsFrom": [
+   1042,
+   3086,
+   1042
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3046.png"
+ },
+ {
+  "id": 3047,
+  "name": "Plated Steelcaps",
+  "patch": "16.22.1",
+  "summary": "Enhances Move Speed and reduces incoming basic attack damage",
+  "stats": {
+   "FlatMovementSpeedMod": 45,
+   "FlatArmorMod": 25
+  },
+  "tags": [
+   "Armor",
+   "Boots"
+  ],
+  "cost": 1200,
+  "buildsFrom": [
+   1001,
+   1029
+  ],
+  "buildsInto": [
+   3174
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3047.png"
+ },
+ {
+  "id": 3050,
+  "name": "Zeke's Convergence",
+  "patch": "16.22.1",
+  "summary": "Grants you and your ally bonuses when you cast your ultimate.",
+  "stats": {
+   "FlatSpellBlockMod": 25,
+   "FlatHPPoolMod": 300,
+   "FlatArmorMod": 25
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "Armor",
+   "AbilityHaste"
+  ],
+  "cost": 2200,
+  "buildsFrom": [
+   3067,
+   1029,
+   1033
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3050.png"
+ },
+ {
+  "id": 3051,
+  "name": "Hearthbound Axe",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 20,
+   "PercentAttackSpeedMod": 0.2
+  },
+  "tags": [
+   "Damage",
+   "AttackSpeed"
+  ],
+  "cost": 1200,
+  "buildsFrom": [
+   1036,
+   1042,
+   1036
+  ],
+  "buildsInto": [
+   3078,
+   3302,
+   6672
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3051.png"
+ },
+ {
+  "id": 3053,
+  "name": "Sterak's Gage",
+  "patch": "16.22.1",
+  "summary": "Shields against large bursts of damage",
+  "stats": {
+   "FlatHPPoolMod": 400
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "Tenacity"
+  ],
+  "cost": 3200,
+  "buildsFrom": [
+   1037,
+   2021,
+   1028
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3053.png"
+ },
+ {
+  "id": 3057,
+  "name": "Sheen",
+  "patch": "16.22.1",
+  "summary": "Grants a bonus to next attack after spell cast",
+  "stats": {},
+  "tags": [
+   "OnHit",
+   "AbilityHaste"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   2022
+  ],
+  "buildsInto": [
+   3078,
+   3100,
+   2510,
+   3508,
+   6632,
+   6662
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3057.png"
+ },
+ {
+  "id": 3065,
+  "name": "Spirit Visage",
+  "patch": "16.22.1",
+  "summary": "Increases Health and healing effects",
+  "stats": {
+   "FlatSpellBlockMod": 50,
+   "FlatHPPoolMod": 400
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "HealthRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2700,
+  "buildsFrom": [
+   3211,
+   3067
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3065.png"
+ },
+ {
+  "id": 3066,
+  "name": "Winged Moonplate",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 200,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Health",
+   "NonbootsMovement"
+  ],
+  "cost": 800,
+  "buildsFrom": [
+   1028
+  ],
+  "buildsInto": [
+   3742,
+   323002,
+   3002,
+   3181,
+   4401
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3066.png"
+ },
+ {
+  "id": 3067,
+  "name": "Kindlegem",
+  "patch": "16.22.1",
+  "summary": "Increases Health and Cooldown Reduction",
+  "stats": {
+   "FlatHPPoolMod": 200
+  },
+  "tags": [
+   "Health",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 800,
+  "buildsFrom": [
+   1028,
+   2022
+  ],
+  "buildsInto": [
+   3071,
+   8020,
+   323050,
+   328020,
+   124011,
+   323190,
+   323222,
+   3165,
+   6620,
+   3050,
+   3109,
+   6656,
+   326617,
+   323107,
+   2502,
+   2510,
+   2524,
+   2525,
+   6617,
+   3065,
+   3152,
+   3119,
+   326620,
+   3190,
+   3222,
+   323109,
+   323119,
+   4403,
+   4629,
+   4644,
+   6630,
+   6632,
+   8001
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3067.png"
+ },
+ {
+  "id": 3068,
+  "name": "Sunfire Aegis",
+  "patch": "16.22.1",
+  "summary": "High armor. Constantly deals damage to nearby enemies. Immobilize enemies to release a wave of damaging flame",
+  "stats": {
+   "FlatHPPoolMod": 350,
+   "FlatArmorMod": 50
+  },
+  "tags": [
+   "Health",
+   "Armor",
+   "Aura",
+   "AbilityHaste"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   6660,
+   1031,
+   1028
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3068.png"
+ },
+ {
+  "id": 3070,
+  "name": "Tear of the Goddess",
+  "patch": "16.22.1",
+  "summary": "Increases maximum Mana as Mana is spent",
+  "stats": {
+   "FlatMPPoolMod": 240
+  },
+  "tags": [
+   "Mana",
+   "ManaRegen"
+  ],
+  "cost": 400,
+  "buildsFrom": [],
+  "buildsInto": [
+   3003,
+   3004,
+   2526,
+   3119
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3070.png"
+ },
+ {
+  "id": 3071,
+  "name": "Black Cleaver",
+  "patch": "16.22.1",
+  "summary": "Dealing physical damage to enemy champions reduces their Armor",
+  "stats": {
+   "FlatHPPoolMod": 400,
+   "FlatPhysicalDamageMod": 45
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "CooldownReduction",
+   "OnHit",
+   "NonbootsMovement",
+   "ArmorPenetration",
+   "AbilityHaste"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3044,
+   3067,
+   1037
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3071.png"
+ },
+ {
+  "id": 3072,
+  "name": "Bloodthirster",
+  "patch": "16.22.1",
+  "summary": "Grants Attack Damage, Life Steal and Life Steal now overheals",
+  "stats": {
+   "FlatPhysicalDamageMod": 80,
+   "PercentLifeStealMod": 0.15
+  },
+  "tags": [
+   "Damage",
+   "LifeSteal"
+  ],
+  "cost": 3400,
+  "buildsFrom": [
+   1038,
+   1037,
+   1053
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3072.png"
+ },
+ {
+  "id": 3073,
+  "name": "Experimental Hexplate",
+  "patch": "16.22.1",
+  "summary": "Increases maximum Mana as Mana is spent",
+  "stats": {
+   "FlatHPPoolMod": 450,
+   "FlatPhysicalDamageMod": 40,
+   "PercentAttackSpeedMod": 0.2
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "AttackSpeed",
+   "CooldownReduction",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   2021,
+   1042,
+   3044
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3073.png"
+ },
+ {
+  "id": 3074,
+  "name": "Ravenous Hydra",
+  "patch": "16.22.1",
+  "summary": "Melee attacks hit nearby enemies, dealing damage and restoring Health",
+  "stats": {
+   "FlatPhysicalDamageMod": 65,
+   "PercentLifeStealMod": 0.12
+  },
+  "tags": [
+   "Damage",
+   "LifeSteal",
+   "CooldownReduction",
+   "OnHit",
+   "AbilityHaste"
+  ],
+  "cost": 3300,
+  "buildsFrom": [
+   3077,
+   1053,
+   3133
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3074.png"
+ },
+ {
+  "id": 3075,
+  "name": "Thornmail",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 150,
+   "FlatArmorMod": 75
+  },
+  "tags": [
+   "Health",
+   "Armor"
+  ],
+  "cost": 2450,
+  "buildsFrom": [
+   3076,
+   1031,
+   1028
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3075.png"
+ },
+ {
+  "id": 3076,
+  "name": "Bramble Vest",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatArmorMod": 30
+  },
+  "tags": [
+   "Armor"
+  ],
+  "cost": 800,
+  "buildsFrom": [
+   1029,
+   1029
+  ],
+  "buildsInto": [
+   323075,
+   3075
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3076.png"
+ },
+ {
+  "id": 3077,
+  "name": "Tiamat",
+  "patch": "16.22.1",
+  "summary": "Melee attacks hit nearby enemies",
+  "stats": {
+   "FlatPhysicalDamageMod": 25
+  },
+  "tags": [
+   "Damage",
+   "OnHit"
+  ],
+  "cost": 1200,
+  "buildsFrom": [
+   1036,
+   1036
+  ],
+  "buildsInto": [
+   3074,
+   3748,
+   6698,
+   6631
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3077.png"
+ },
+ {
+  "id": 3078,
+  "name": "Trinity Force",
+  "patch": "16.22.1",
+  "summary": "Tons of Damage",
+  "stats": {
+   "FlatHPPoolMod": 333,
+   "FlatPhysicalDamageMod": 36,
+   "PercentAttackSpeedMod": 0.3
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "AttackSpeed",
+   "CooldownReduction",
+   "OnHit",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 3333,
+  "buildsFrom": [
+   3057,
+   3044,
+   3051
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3078.png"
+ },
+ {
+  "id": 3082,
+  "name": "Warden's Mail",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatArmorMod": 40
+  },
+  "tags": [
+   "Armor"
+  ],
+  "cost": 1000,
+  "buildsFrom": [
+   1029,
+   1029
+  ],
+  "buildsInto": [
+   323110,
+   3110,
+   3143
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3082.png"
+ },
+ {
+  "id": 3083,
+  "name": "Warmog's Armor",
+  "patch": "16.22.1",
+  "summary": "Grants massive Health and Health Regen",
+  "stats": {
+   "FlatHPPoolMod": 1000
+  },
+  "tags": [
+   "Health",
+   "HealthRegen"
+  ],
+  "cost": 3100,
+  "buildsFrom": [
+   1011,
+   1011,
+   3801
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3083.png"
+ },
+ {
+  "id": 3084,
+  "name": "Heartsteel",
+  "patch": "16.22.1",
+  "summary": "Restores Health on kill or assist",
+  "stats": {
+   "FlatHPPoolMod": 900
+  },
+  "tags": [
+   "Health",
+   "HealthRegen"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   1011,
+   3801,
+   1011
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3084.png"
+ },
+ {
+  "id": 3085,
+  "name": "Runaan's Hurricane",
+  "patch": "16.22.1",
+  "summary": "Ranged attacks fire two bolts at nearby enemies",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "PercentAttackSpeedMod": 0.4,
+   "PercentMovementSpeedMod": 0.05
+  },
+  "tags": [
+   "CriticalStrike",
+   "AttackSpeed",
+   "OnHit",
+   "NonbootsMovement"
+  ],
+  "cost": 2650,
+  "buildsFrom": [
+   3086,
+   3144
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3085.png"
+ },
+ {
+  "id": 3086,
+  "name": "Zeal",
+  "patch": "16.22.1",
+  "summary": "Slight bonuses to Critical Strike Chance, Move Speed and Attack Speed",
+  "stats": {
+   "FlatCritChanceMod": 0.15,
+   "PercentAttackSpeedMod": 0.15,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "CriticalStrike",
+   "AttackSpeed",
+   "NonbootsMovement"
+  ],
+  "cost": 1200,
+  "buildsFrom": [
+   1018,
+   1042
+  ],
+  "buildsInto": [
+   2512,
+   3094,
+   3046,
+   3085,
+   4403,
+   6671,
+   6675
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3086.png"
+ },
+ {
+  "id": 3087,
+  "name": "Statikk Shiv",
+  "patch": "16.22.1",
+  "summary": "Movement builds charges that release chain lightning on basic attack",
+  "stats": {
+   "FlatMagicDamageMod": 45,
+   "FlatPhysicalDamageMod": 45,
+   "PercentAttackSpeedMod": 0.3,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Damage",
+   "AttackSpeed",
+   "SpellDamage",
+   "OnHit",
+   "NonbootsMovement"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3144,
+   3113,
+   1037
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3087.png"
+ },
+ {
+  "id": 3089,
+  "name": "Rabadon's Deathcap",
+  "patch": "16.22.1",
+  "summary": "Massively increases Ability Power",
+  "stats": {
+   "FlatMagicDamageMod": 130
+  },
+  "tags": [
+   "SpellDamage"
+  ],
+  "cost": 3500,
+  "buildsFrom": [
+   1058,
+   1058
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3089.png"
+ },
+ {
+  "id": 3091,
+  "name": "Wit's End",
+  "patch": "16.22.1",
+  "summary": "Resist magic damage and claw your way back to life.",
+  "stats": {
+   "FlatSpellBlockMod": 45,
+   "PercentAttackSpeedMod": 0.5
+  },
+  "tags": [
+   "SpellBlock",
+   "AttackSpeed",
+   "OnHit",
+   "Tenacity"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   1043,
+   1057,
+   1043
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3091.png"
+ },
+ {
+  "id": 3094,
+  "name": "Rapid Firecannon",
+  "patch": "16.22.1",
+  "summary": "Movement builds charges that release a sieging fire attack on release",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "PercentAttackSpeedMod": 0.35,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "CriticalStrike",
+   "AttackSpeed",
+   "NonbootsMovement"
+  ],
+  "cost": 2650,
+  "buildsFrom": [
+   3086,
+   3144
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3094.png"
+ },
+ {
+  "id": 3095,
+  "name": "Stormrazor",
+  "patch": "16.22.1",
+  "summary": "Tremendously empower other Energized effects.",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 50,
+   "PercentAttackSpeedMod": 0.25
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike",
+   "AttackSpeed",
+   "NonbootsMovement"
+  ],
+  "cost": 3200,
+  "buildsFrom": [
+   1038,
+   1018,
+   3144
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3095.png"
+ },
+ {
+  "id": 3100,
+  "name": "Lich Bane",
+  "patch": "16.22.1",
+  "summary": "Grants a bonus to next attack after spell cast",
+  "stats": {
+   "FlatMagicDamageMod": 100,
+   "PercentMovementSpeedMod": 0.06
+  },
+  "tags": [
+   "SpellDamage",
+   "OnHit",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3057,
+   3113,
+   1026
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3100.png"
+ },
+ {
+  "id": 3102,
+  "name": "Banshee's Veil",
+  "patch": "16.22.1",
+  "summary": "Periodically blocks enemy abilities",
+  "stats": {
+   "FlatSpellBlockMod": 40,
+   "FlatMagicDamageMod": 105
+  },
+  "tags": [
+   "SpellBlock",
+   "SpellDamage"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   1058,
+   4632
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3102.png"
+ },
+ {
+  "id": 3107,
+  "name": "Redemption",
+  "patch": "16.22.1",
+  "summary": "Activate to heal allies and damage enemies in an area",
+  "stats": {
+   "FlatMagicDamageMod": 30
+  },
+  "tags": [
+   "SpellDamage",
+   "ManaRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2300,
+  "buildsFrom": [
+   3108,
+   3114
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3107.png"
+ },
+ {
+  "id": 3108,
+  "name": "Fiendish Codex",
+  "patch": "16.22.1",
+  "summary": "Increases Ability Power and Cooldown Reduction",
+  "stats": {
+   "FlatMagicDamageMod": 25
+  },
+  "tags": [
+   "SpellDamage",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 850,
+  "buildsFrom": [
+   1052,
+   2022
+  ],
+  "buildsInto": [
+   123430,
+   4636,
+   323003,
+   3115,
+   3003,
+   326616,
+   3107,
+   3128,
+   3137,
+   8010,
+   6616,
+   4628,
+   4629,
+   4633
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3108.png"
+ },
+ {
+  "id": 3109,
+  "name": "Knight's Vow",
+  "patch": "16.22.1",
+  "summary": "Partner with an ally to protect each other",
+  "stats": {
+   "FlatHPPoolMod": 200,
+   "FlatArmorMod": 40
+  },
+  "tags": [
+   "Health",
+   "HealthRegen",
+   "Armor",
+   "Aura",
+   "Active",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2300,
+  "buildsFrom": [
+   3067,
+   1031,
+   1006
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3109.png"
+ },
+ {
+  "id": 3110,
+  "name": "Frozen Heart",
+  "patch": "16.22.1",
+  "summary": "Massively increases Armor and slows enemy basic attacks",
+  "stats": {
+   "FlatMPPoolMod": 400,
+   "FlatArmorMod": 75
+  },
+  "tags": [
+   "Armor",
+   "Mana",
+   "Aura",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2500,
+  "buildsFrom": [
+   3082,
+   3024
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3110.png"
+ },
+ {
+  "id": 3111,
+  "name": "Mercury's Treads",
+  "patch": "16.22.1",
+  "summary": "Increases Move Speed and reduces duration of disabling effects",
+  "stats": {
+   "FlatSpellBlockMod": 20,
+   "FlatMovementSpeedMod": 45
+  },
+  "tags": [
+   "Boots",
+   "SpellBlock",
+   "Tenacity"
+  ],
+  "cost": 1250,
+  "buildsFrom": [
+   1001,
+   1033
+  ],
+  "buildsInto": [
+   3173
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3111.png"
+ },
+ {
+  "id": 3112,
+  "name": "Guardian's Orb",
+  "patch": "16.22.1",
+  "summary": "Good starting item for mages",
+  "stats": {
+   "FlatHPPoolMod": 150,
+   "FlatMagicDamageMod": 50
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "ManaRegen",
+   "Lane"
+  ],
+  "cost": 950,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3112.png"
+ },
+ {
+  "id": 3113,
+  "name": "Aether Wisp",
+  "patch": "16.22.1",
+  "summary": "Increases Ability Power and Move Speed",
+  "stats": {
+   "FlatMagicDamageMod": 30,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "NonbootsMovement",
+   "SpellDamage"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1052
+  ],
+  "buildsInto": [
+   123430,
+   3100,
+   2065,
+   322065,
+   3087,
+   323504,
+   3504,
+   4629,
+   4646
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3113.png"
+ },
+ {
+  "id": 3114,
+  "name": "Forbidden Idol",
+  "patch": "16.22.1",
+  "summary": "Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction",
+  "stats": {},
+  "tags": [
+   "ManaRegen"
+  ],
+  "cost": 600,
+  "buildsFrom": [
+   1004
+  ],
+  "buildsInto": [
+   124011,
+   326621,
+   223011,
+   323222,
+   323107,
+   322526,
+   2526,
+   3011,
+   326616,
+   3107,
+   3222,
+   323504,
+   3504,
+   6616,
+   6621
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3114.png"
+ },
+ {
+  "id": 3115,
+  "name": "Nashor's Tooth",
+  "patch": "16.22.1",
+  "summary": "Increases Attack Speed, Ability Power, and Cooldown Reduction",
+  "stats": {
+   "FlatMagicDamageMod": 80,
+   "PercentAttackSpeedMod": 0.5
+  },
+  "tags": [
+   "AttackSpeed",
+   "SpellDamage",
+   "OnHit",
+   "AbilityHaste"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   1043,
+   1026,
+   3108
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3115.png"
+ },
+ {
+  "id": 3116,
+  "name": "Rylai's Crystal Scepter",
+  "patch": "16.22.1",
+  "summary": "Abilities slow enemies",
+  "stats": {
+   "FlatHPPoolMod": 400,
+   "FlatMagicDamageMod": 65
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "Slow"
+  ],
+  "cost": 2600,
+  "buildsFrom": [
+   1026,
+   1011,
+   1052
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3116.png"
+ },
+ {
+  "id": 3118,
+  "name": "Malignance",
+  "patch": "16.22.1",
+  "summary": "Partner with an ally to protect each other",
+  "stats": {
+   "FlatMPPoolMod": 600,
+   "FlatMagicDamageMod": 90
+  },
+  "tags": [
+   "SpellDamage",
+   "Mana",
+   "AbilityHaste"
+  ],
+  "cost": 2700,
+  "buildsFrom": [
+   3802,
+   1026
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3118.png"
+ },
+ {
+  "id": 3119,
+  "name": "Winter's Approach",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMPPoolMod": 500,
+   "FlatHPPoolMod": 550
+  },
+  "tags": [
+   "Health",
+   "Mana",
+   "AbilityHaste"
+  ],
+  "cost": 2400,
+  "buildsFrom": [
+   3070,
+   1011,
+   3067
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3119.png"
+ },
+ {
+  "id": 3123,
+  "name": "Executioner's Calling",
+  "patch": "16.22.1",
+  "summary": "Overcomes enemies with high health gain",
+  "stats": {
+   "FlatPhysicalDamageMod": 15
+  },
+  "tags": [
+   "Damage"
+  ],
+  "cost": 800,
+  "buildsFrom": [
+   1036
+  ],
+  "buildsInto": [
+   3033,
+   6609
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3123.png"
+ },
+ {
+  "id": 3124,
+  "name": "Guinsoo's Rageblade",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMagicDamageMod": 30,
+   "FlatPhysicalDamageMod": 30,
+   "PercentAttackSpeedMod": 0.25
+  },
+  "tags": [
+   "Damage",
+   "AttackSpeed",
+   "SpellDamage",
+   "OnHit"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   1052,
+   1043,
+   1037
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3124.png"
+ },
+ {
+  "id": 3133,
+  "name": "Caulfield's Warhammer",
+  "patch": "16.22.1",
+  "summary": "Attack Damage and Cooldown Reduction",
+  "stats": {
+   "FlatPhysicalDamageMod": 20
+  },
+  "tags": [
+   "Damage",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 1050,
+  "buildsFrom": [
+   1036,
+   2022,
+   1036
+  ],
+  "buildsInto": [
+   6333,
+   126697,
+   6697,
+   4402,
+   3156,
+   2517,
+   323004,
+   6693,
+   3004,
+   3508,
+   3074,
+   3179,
+   6691,
+   6609,
+   6610,
+   6632,
+   6692,
+   6694,
+   6696
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3133.png"
+ },
+ {
+  "id": 3134,
+  "name": "Serrated Dirk",
+  "patch": "16.22.1",
+  "summary": "Increases Attack Damage and Lethality",
+  "stats": {
+   "FlatPhysicalDamageMod": 20
+  },
+  "tags": [
+   "Damage",
+   "ArmorPenetration"
+  ],
+  "cost": 1000,
+  "buildsFrom": [
+   1036,
+   1036
+  ],
+  "buildsInto": [
+   3142,
+   667666,
+   126697,
+   6697,
+   6701,
+   6693,
+   2520,
+   4004,
+   6695,
+   3814,
+   3131,
+   3179,
+   6691,
+   6676
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3134.png"
+ },
+ {
+  "id": 3135,
+  "name": "Void Staff",
+  "patch": "16.22.1",
+  "summary": "Increases magic damage",
+  "stats": {
+   "FlatMagicDamageMod": 95
+  },
+  "tags": [
+   "MagicPenetration",
+   "SpellDamage"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   4630,
+   1026
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3135.png"
+ },
+ {
+  "id": 3137,
+  "name": "Cryptbloom",
+  "patch": "16.22.1",
+  "summary": "Activate to remove all debuffs and grant massive Move Speed",
+  "stats": {
+   "FlatMagicDamageMod": 75
+  },
+  "tags": [
+   "SpellDamage",
+   "MagicPenetration",
+   "AbilityHaste"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   4630,
+   3108,
+   3108
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3137.png"
+ },
+ {
+  "id": 3139,
+  "name": "Mercurial Scimitar",
+  "patch": "16.22.1",
+  "summary": "Activate to remove all crowd control debuffs and grant massive Move Speed",
+  "stats": {
+   "FlatSpellBlockMod": 35,
+   "FlatPhysicalDamageMod": 50,
+   "PercentLifeStealMod": 0.1
+  },
+  "tags": [
+   "SpellBlock",
+   "Damage",
+   "LifeSteal",
+   "Active",
+   "NonbootsMovement",
+   "Tenacity"
+  ],
+  "cost": 3200,
+  "buildsFrom": [
+   3140,
+   1037,
+   1053
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3139.png"
+ },
+ {
+  "id": 3140,
+  "name": "Quicksilver Sash",
+  "patch": "16.22.1",
+  "summary": "Activate to remove all crowd control debuffs",
+  "stats": {
+   "FlatSpellBlockMod": 30
+  },
+  "tags": [
+   "Active",
+   "SpellBlock"
+  ],
+  "cost": 1300,
+  "buildsFrom": [
+   1033
+  ],
+  "buildsInto": [
+   3139,
+   6035
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3140.png"
+ },
+ {
+  "id": 3142,
+  "name": "Youmuu's Ghostblade",
+  "patch": "16.22.1",
+  "summary": "Activate to greatly increase Move Speed",
+  "stats": {
+   "FlatPhysicalDamageMod": 55,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Damage",
+   "Active",
+   "NonbootsMovement",
+   "ArmorPenetration"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   3134,
+   6690,
+   1036
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3142.png"
+ },
+ {
+  "id": 3143,
+  "name": "Randuin's Omen",
+  "patch": "16.22.1",
+  "summary": "Greatly increases defenses, activate to slow nearby enemies",
+  "stats": {
+   "FlatHPPoolMod": 350,
+   "FlatArmorMod": 75
+  },
+  "tags": [
+   "Health",
+   "Armor",
+   "Active",
+   "Slow"
+  ],
+  "cost": 2700,
+  "buildsFrom": [
+   3082,
+   1011
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3143.png"
+ },
+ {
+  "id": 3144,
+  "name": "Scout's Slingshot",
+  "patch": "16.22.1",
+  "summary": "Activate to deal magic damage and slow target champion",
+  "stats": {
+   "PercentAttackSpeedMod": 0.2
+  },
+  "tags": [
+   "AttackSpeed"
+  ],
+  "cost": 600,
+  "buildsFrom": [
+   1042,
+   1042
+  ],
+  "buildsInto": [
+   2512,
+   3094,
+   3087,
+   3032,
+   3085,
+   3095
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3144.png"
+ },
+ {
+  "id": 3145,
+  "name": "Hextech Alternator",
+  "patch": "16.22.1",
+  "summary": "Increases Ability Power. Deal bonus magic damage on attack periodically.",
+  "stats": {
+   "FlatMagicDamageMod": 45
+  },
+  "tags": [
+   "SpellDamage"
+  ],
+  "cost": 1100,
+  "buildsFrom": [
+   1052,
+   1052
+  ],
+  "buildsInto": [
+   4645,
+   4636,
+   3146,
+   6655,
+   3152,
+   4646
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3145.png"
+ },
+ {
+  "id": 3146,
+  "name": "Hextech Gunblade",
+  "patch": "16.22.1",
+  "summary": "Increases Attack Damage and Ability Power, activate to slow a target",
+  "stats": {
+   "FlatMagicDamageMod": 80,
+   "FlatPhysicalDamageMod": 40
+  },
+  "tags": [
+   "Damage",
+   "LifeSteal",
+   "SpellDamage",
+   "Active",
+   "SpellVamp"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   1053,
+   3145,
+   1052
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3146.png"
+ },
+ {
+  "id": 3147,
+  "name": "Haunting Guise",
+  "patch": "16.22.1",
+  "summary": "Deals additional physical damage when ambushing enemies",
+  "stats": {
+   "FlatHPPoolMod": 200,
+   "FlatMagicDamageMod": 30
+  },
+  "tags": [
+   "Health",
+   "SpellDamage"
+  ],
+  "cost": 1300,
+  "buildsFrom": [
+   1052,
+   1028
+  ],
+  "buildsInto": [
+   8010,
+   4633,
+   6653
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3147.png"
+ },
+ {
+  "id": 3152,
+  "name": "Hextech Rocketbelt",
+  "patch": "16.22.1",
+  "summary": "Activate to dash forward and unleash a fiery explosion",
+  "stats": {
+   "FlatHPPoolMod": 350,
+   "FlatMagicDamageMod": 60
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "Active",
+   "CooldownReduction",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 2650,
+  "buildsFrom": [
+   3145,
+   3067,
+   1028
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3152.png"
+ },
+ {
+  "id": 3153,
+  "name": "Blade of The Ruined King",
+  "patch": "16.22.1",
+  "summary": "Deals damage based on target's Health, can steal Move Speed",
+  "stats": {
+   "FlatPhysicalDamageMod": 40,
+   "PercentAttackSpeedMod": 0.25,
+   "PercentLifeStealMod": 0.1
+  },
+  "tags": [
+   "Damage",
+   "AttackSpeed",
+   "LifeSteal",
+   "Slow",
+   "OnHit"
+  ],
+  "cost": 3200,
+  "buildsFrom": [
+   1053,
+   1043,
+   1037
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3153.png"
+ },
+ {
+  "id": 3155,
+  "name": "Hexdrinker",
+  "patch": "16.22.1",
+  "summary": "Increases Attack Damage and Magic Resist",
+  "stats": {
+   "FlatSpellBlockMod": 25,
+   "FlatPhysicalDamageMod": 25
+  },
+  "tags": [
+   "Damage",
+   "SpellBlock"
+  ],
+  "cost": 1300,
+  "buildsFrom": [
+   1036,
+   1033,
+   1036
+  ],
+  "buildsInto": [
+   3156
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3155.png"
+ },
+ {
+  "id": 3156,
+  "name": "Maw of Malmortius",
+  "patch": "16.22.1",
+  "summary": "Grants bonus Attack Damage when Health is low",
+  "stats": {
+   "FlatSpellBlockMod": 40,
+   "FlatPhysicalDamageMod": 60
+  },
+  "tags": [
+   "SpellBlock",
+   "Damage",
+   "LifeSteal",
+   "SpellVamp",
+   "AbilityHaste"
+  ],
+  "cost": 3100,
+  "buildsFrom": [
+   3155,
+   3133
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3156.png"
+ },
+ {
+  "id": 3157,
+  "name": "Zhonya's Hourglass",
+  "patch": "16.22.1",
+  "summary": "Activate to become invincible but unable to take actions",
+  "stats": {
+   "FlatMagicDamageMod": 105,
+   "FlatArmorMod": 50
+  },
+  "tags": [
+   "Armor",
+   "SpellDamage",
+   "Active"
+  ],
+  "cost": 3250,
+  "buildsFrom": [
+   1058,
+   2420
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3157.png"
+ },
+ {
+  "id": 3158,
+  "name": "Ionian Boots of Lucidity",
+  "patch": "16.22.1",
+  "summary": "Increases Move Speed and Cooldown Reduction",
+  "stats": {
+   "FlatMovementSpeedMod": 45
+  },
+  "tags": [
+   "Boots",
+   "CooldownReduction"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1001,
+   2022
+  ],
+  "buildsInto": [
+   3171
+  ],
+  "kind": "boots",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3158.png"
+ },
+ {
+  "id": 3161,
+  "name": "Spear of Shojin",
+  "patch": "16.22.1",
+  "summary": "Reduce damage taken from champions by a flat amount. Attack while near multiple enemy champions to increase this amount for a short time.",
+  "stats": {
+   "FlatHPPoolMod": 450,
+   "FlatPhysicalDamageMod": 45
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "AbilityHaste"
+  ],
+  "cost": 3100,
+  "buildsFrom": [
+   1037,
+   2021,
+   1028
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3161.png"
+ },
+ {
+  "id": 3165,
+  "name": "Morellonomicon",
+  "patch": "16.22.1",
+  "summary": "Increases magic damage",
+  "stats": {
+   "FlatHPPoolMod": 350,
+   "FlatMagicDamageMod": 75
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2850,
+  "buildsFrom": [
+   3916,
+   1026,
+   3067
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3165.png"
+ },
+ {
+  "id": 3177,
+  "name": "Guardian's Blade",
+  "patch": "16.22.1",
+  "summary": "Good starting item for attackers",
+  "stats": {
+   "FlatHPPoolMod": 150,
+   "FlatPhysicalDamageMod": 30
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "Lane",
+   "AbilityHaste"
+  ],
+  "cost": 950,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3177.png"
+ },
+ {
+  "id": 3181,
+  "name": "Hullbreaker",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 500,
+   "FlatPhysicalDamageMod": 40,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "NonbootsMovement"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   2021,
+   3066,
+   1037
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3181.png"
+ },
+ {
+  "id": 3184,
+  "name": "Guardian's Hammer",
+  "patch": "16.22.1",
+  "summary": "Good starting item for attackers",
+  "stats": {
+   "FlatHPPoolMod": 150,
+   "FlatPhysicalDamageMod": 25,
+   "PercentLifeStealMod": 0.05
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "LifeSteal",
+   "Lane"
+  ],
+  "cost": 950,
+  "buildsFrom": [],
+  "buildsInto": [],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3184.png"
+ },
+ {
+  "id": 3190,
+  "name": "Locket of the Iron Solari",
+  "patch": "16.22.1",
+  "summary": "Activate to shield nearby allies from damage",
+  "stats": {
+   "FlatSpellBlockMod": 30,
+   "FlatHPPoolMod": 200,
+   "FlatArmorMod": 30
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "Armor",
+   "Aura",
+   "Active",
+   "MagicResist",
+   "AbilityHaste"
+  ],
+  "cost": 2200,
+  "buildsFrom": [
+   3067,
+   1029,
+   1033
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3190.png"
+ },
+ {
+  "id": 3211,
+  "name": "Spectre's Cowl",
+  "patch": "16.22.1",
+  "summary": "Improves defense and grants regeneration upon being damaged",
+  "stats": {
+   "FlatSpellBlockMod": 35,
+   "FlatHPPoolMod": 200
+  },
+  "tags": [
+   "Health",
+   "HealthRegen",
+   "SpellBlock"
+  ],
+  "cost": 1250,
+  "buildsFrom": [
+   1028,
+   1033,
+   1006
+  ],
+  "buildsInto": [
+   2504,
+   3065,
+   6664
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3211.png"
+ },
+ {
+  "id": 3222,
+  "name": "Mikael's Blessing",
+  "patch": "16.22.1",
+  "summary": "Activate to remove all disabling effects from an allied champion",
+  "stats": {
+   "FlatHPPoolMod": 250
+  },
+  "tags": [
+   "Health",
+   "ManaRegen",
+   "Active",
+   "CooldownReduction",
+   "Tenacity",
+   "AbilityHaste"
+  ],
+  "cost": 2300,
+  "buildsFrom": [
+   3067,
+   3114
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3222.png"
+ },
+ {
+  "id": 3302,
+  "name": "Terminus",
+  "patch": "16.22.1",
+  "summary": "Kill minions periodically to heal and grant gold to a nearby ally",
+  "stats": {
+   "FlatPhysicalDamageMod": 30,
+   "PercentAttackSpeedMod": 0.35
+  },
+  "tags": [
+   "Damage",
+   "AttackSpeed",
+   "OnHit",
+   "MagicPenetration",
+   "ArmorPenetration"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3051,
+   1043
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3302.png"
+ },
+ {
+  "id": 3504,
+  "name": "Ardent Censer",
+  "patch": "16.22.1",
+  "summary": "Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage.",
+  "stats": {
+   "FlatMagicDamageMod": 45,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "AttackSpeed",
+   "SpellDamage",
+   "ManaRegen",
+   "NonbootsMovement"
+  ],
+  "cost": 2200,
+  "buildsFrom": [
+   3113,
+   3114
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3504.png"
+ },
+ {
+  "id": 3508,
+  "name": "Essence Reaver",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 50
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike",
+   "ManaRegen",
+   "CooldownReduction",
+   "OnHit",
+   "AbilityHaste"
+  ],
+  "cost": 3050,
+  "buildsFrom": [
+   3057,
+   3133,
+   1018
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3508.png"
+ },
+ {
+  "id": 3742,
+  "name": "Dead Man's Plate",
+  "patch": "16.22.1",
+  "summary": "Build momentum as you move around then smash into enemies.",
+  "stats": {
+   "FlatHPPoolMod": 350,
+   "FlatArmorMod": 55,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Health",
+   "Armor",
+   "Slow",
+   "NonbootsMovement"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3066,
+   1028,
+   1031
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3742.png"
+ },
+ {
+  "id": 3748,
+  "name": "Titanic Hydra",
+  "patch": "16.22.1",
+  "summary": "Deals area of effect damage based on owner's health",
+  "stats": {
+   "FlatHPPoolMod": 600,
+   "FlatPhysicalDamageMod": 40
+  },
+  "tags": [
+   "Health",
+   "HealthRegen",
+   "Damage",
+   "OnHit"
+  ],
+  "cost": 3300,
+  "buildsFrom": [
+   3077,
+   2021,
+   1011
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3748.png"
+ },
+ {
+  "id": 3801,
+  "name": "Crystalline Bracer",
+  "patch": "16.22.1",
+  "summary": "Grants Health and Health Regen",
+  "stats": {
+   "FlatHPPoolMod": 200
+  },
+  "tags": [
+   "Health",
+   "HealthRegen"
+  ],
+  "cost": 800,
+  "buildsFrom": [
+   1028,
+   1006
+  ],
+  "buildsInto": [
+   3084,
+   3083
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3801.png"
+ },
+ {
+  "id": 3802,
+  "name": "Lost Chapter",
+  "patch": "16.22.1",
+  "summary": "Restores Mana upon levelling up.",
+  "stats": {
+   "FlatMPPoolMod": 300,
+   "FlatMagicDamageMod": 40
+  },
+  "tags": [
+   "SpellDamage",
+   "Mana",
+   "ManaRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 1200,
+  "buildsFrom": [
+   1052,
+   1027,
+   2022
+  ],
+  "buildsInto": [
+   2522,
+   323003,
+   6656,
+   3003,
+   6655,
+   2503,
+   3118,
+   4644
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3802.png"
+ },
+ {
+  "id": 3803,
+  "name": "Catalyst of Aeons",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMPPoolMod": 375,
+   "FlatHPPoolMod": 300
+  },
+  "tags": [
+   "Health",
+   "HealthRegen",
+   "Mana",
+   "ManaRegen"
+  ],
+  "cost": 1300,
+  "buildsFrom": [
+   1028,
+   1028,
+   1027
+  ],
+  "buildsInto": [
+   4402,
+   326657,
+   6657
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3803.png"
+ },
+ {
+  "id": 3814,
+  "name": "Edge of Night",
+  "patch": "16.22.1",
+  "summary": "Periodically blocks enemy abilities",
+  "stats": {
+   "FlatHPPoolMod": 250,
+   "FlatPhysicalDamageMod": 50
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "ArmorPenetration"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3134,
+   2021
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3814.png"
+ },
+ {
+  "id": 3916,
+  "name": "Oblivion Orb",
+  "patch": "16.22.1",
+  "summary": "Increases magic damage",
+  "stats": {
+   "FlatMagicDamageMod": 25
+  },
+  "tags": [
+   "SpellDamage"
+  ],
+  "cost": 800,
+  "buildsFrom": [
+   1052
+  ],
+  "buildsInto": [
+   223011,
+   3165,
+   3011
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3916.png"
+ },
+ {
+  "id": 4003,
+  "name": "Lifeline",
+  "patch": "16.22.1",
+  "summary": "Marks the ground, and returns you there after a few moments",
+  "stats": {
+   "FlatPhysicalDamageMod": 25,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Damage",
+   "NonbootsMovement",
+   "ArmorPenetration"
+  ],
+  "cost": 1600,
+  "buildsFrom": [
+   6690,
+   1036
+  ],
+  "buildsInto": [
+   4004
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4003.png"
+ },
+ {
+  "id": 4004,
+  "name": "Spectral Cutlass",
+  "patch": "16.22.1",
+  "summary": "Marks the ground, and returns you there after a few moments",
+  "stats": {
+   "FlatPhysicalDamageMod": 50,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Damage",
+   "NonbootsMovement",
+   "ArmorPenetration"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   4003,
+   3134
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4004.png"
+ },
+ {
+  "id": 4005,
+  "name": "Imperial Mandate",
+  "patch": "16.22.1",
+  "summary": "Defer damage until later.",
+  "stats": {
+   "FlatMagicDamageMod": 60
+  },
+  "tags": [
+   "SpellDamage",
+   "ManaRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2400,
+  "buildsFrom": [
+   1052,
+   4642,
+   1052
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4005.png"
+ },
+ {
+  "id": 4401,
+  "name": "Force of Nature",
+  "patch": "16.22.1",
+  "summary": "Move Speed, Magic Resist, and max Health Regeneration",
+  "stats": {
+   "FlatSpellBlockMod": 55,
+   "FlatHPPoolMod": 400,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "NonbootsMovement"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   1057,
+   1028,
+   3066
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4401.png"
+ },
+ {
+  "id": 4628,
+  "name": "Horizon Focus",
+  "patch": "16.22.1",
+  "summary": "Immobilizing a champion causes lightning to strike them",
+  "stats": {
+   "FlatMagicDamageMod": 75
+  },
+  "tags": [
+   "SpellDamage",
+   "AbilityHaste"
+  ],
+  "cost": 2700,
+  "buildsFrom": [
+   3108,
+   3108,
+   1052
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4628.png"
+ },
+ {
+  "id": 4629,
+  "name": "Cosmic Drive",
+  "patch": "16.22.1",
+  "summary": "Massive amounts of Cooldown Reduction",
+  "stats": {
+   "FlatHPPoolMod": 350,
+   "FlatMagicDamageMod": 70,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "NonbootsMovement",
+   "AbilityHaste"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3067,
+   3113,
+   3108
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4629.png"
+ },
+ {
+  "id": 4630,
+  "name": "Blighting Jewel",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMagicDamageMod": 25
+  },
+  "tags": [
+   "MagicPenetration",
+   "SpellDamage"
+  ],
+  "cost": 1100,
+  "buildsFrom": [
+   1052
+  ],
+  "buildsInto": [
+   3135,
+   3137
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4630.png"
+ },
+ {
+  "id": 4632,
+  "name": "Verdant Barrier",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatSpellBlockMod": 25,
+   "FlatMagicDamageMod": 40
+  },
+  "tags": [
+   "SpellBlock",
+   "SpellDamage"
+  ],
+  "cost": 1600,
+  "buildsFrom": [
+   1052,
+   1033,
+   1052
+  ],
+  "buildsInto": [
+   3102
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4632.png"
+ },
+ {
+  "id": 4633,
+  "name": "Riftmaker",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 350,
+   "FlatMagicDamageMod": 70
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "CooldownReduction",
+   "SpellVamp"
+  ],
+  "cost": 3100,
+  "buildsFrom": [
+   3147,
+   3108
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4633.png"
+ },
+ {
+  "id": 4642,
+  "name": "Bandleglass Mirror",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMagicDamageMod": 20
+  },
+  "tags": [
+   "SpellDamage",
+   "ManaRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1004,
+   1052,
+   2022
+  ],
+  "buildsInto": [
+   2065,
+   322065,
+   6620,
+   326617,
+   324005,
+   4005,
+   6617,
+   326620
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4642.png"
+ },
+ {
+  "id": 4645,
+  "name": "Shadowflame",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMagicDamageMod": 110
+  },
+  "tags": [
+   "SpellDamage",
+   "MagicPenetration"
+  ],
+  "cost": 3200,
+  "buildsFrom": [
+   3145,
+   1058
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4645.png"
+ },
+ {
+  "id": 6333,
+  "name": "Death's Dance",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatArmorMod": 50,
+   "FlatPhysicalDamageMod": 60
+  },
+  "tags": [
+   "Armor",
+   "Damage",
+   "AbilityHaste"
+  ],
+  "cost": 3300,
+  "buildsFrom": [
+   2019,
+   1037,
+   3133
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6333.png"
+ },
+ {
+  "id": 6609,
+  "name": "Chempunk Chainsword",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 450,
+   "FlatPhysicalDamageMod": 45
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3123,
+   1011,
+   3133
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6609.png"
+ },
+ {
+  "id": 6610,
+  "name": "Sundered Sky",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 400,
+   "FlatPhysicalDamageMod": 40
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 3100,
+  "buildsFrom": [
+   2021,
+   3133
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6610.png"
+ },
+ {
+  "id": 6616,
+  "name": "Staff of Flowing Water",
+  "patch": "16.22.1",
+  "summary": "Your heals and shields reduce crowd control and grant Move Speed",
+  "stats": {
+   "FlatMagicDamageMod": 35
+  },
+  "tags": [
+   "SpellDamage",
+   "ManaRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2250,
+  "buildsFrom": [
+   3108,
+   3114
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6616.png"
+ },
+ {
+  "id": 6617,
+  "name": "Moonstone Renewer",
+  "patch": "16.22.1",
+  "summary": "Your heals and shields cool down faster and have greater effect on low health allies",
+  "stats": {
+   "FlatHPPoolMod": 200,
+   "FlatMagicDamageMod": 25
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "ManaRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2200,
+  "buildsFrom": [
+   3067,
+   4642
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6617.png"
+ },
+ {
+  "id": 6620,
+  "name": "Echoes of Helia",
+  "patch": "16.22.1",
+  "summary": "Damage low-health enemies to trigger a cursed explosion, dealing damage and slowing nearby foes",
+  "stats": {
+   "FlatHPPoolMod": 200,
+   "FlatMagicDamageMod": 35
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "ManaRegen",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2200,
+  "buildsFrom": [
+   3067,
+   4642
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6620.png"
+ },
+ {
+  "id": 6621,
+  "name": "Dawncore",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMagicDamageMod": 45
+  },
+  "tags": [
+   "SpellDamage",
+   "ManaRegen"
+  ],
+  "cost": 2500,
+  "buildsFrom": [
+   1026,
+   3114,
+   3114
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6621.png"
+ },
+ {
+  "id": 6631,
+  "name": "Stridebreaker",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 450,
+   "FlatPhysicalDamageMod": 40,
+   "PercentAttackSpeedMod": 0.25
+  },
+  "tags": [
+   "Health",
+   "Damage",
+   "AttackSpeed",
+   "Slow"
+  ],
+  "cost": 3300,
+  "buildsFrom": [
+   3077,
+   3044,
+   1042
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6631.png"
+ },
+ {
+  "id": 6653,
+  "name": "Liandry's Torment",
+  "patch": "16.22.1",
+  "summary": "Charge up in combat to deal high damage over time, especially against durable enemies",
+  "stats": {
+   "FlatHPPoolMod": 300,
+   "FlatMagicDamageMod": 60
+  },
+  "tags": [
+   "Health",
+   "SpellDamage"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3147,
+   2508
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6653.png"
+ },
+ {
+  "id": 6655,
+  "name": "Luden's Echo",
+  "patch": "16.22.1",
+  "summary": "High burst damage, good against fragile foes",
+  "stats": {
+   "FlatMPPoolMod": 600,
+   "FlatMagicDamageMod": 100
+  },
+  "tags": [
+   "SpellDamage",
+   "Mana",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2750,
+  "buildsFrom": [
+   3802,
+   3145
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6655.png"
+ },
+ {
+  "id": 6657,
+  "name": "Rod of Ages",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatMPPoolMod": 500,
+   "FlatHPPoolMod": 350,
+   "FlatMagicDamageMod": 45
+  },
+  "tags": [
+   "Health",
+   "HealthRegen",
+   "SpellDamage",
+   "Mana",
+   "ManaRegen"
+  ],
+  "cost": 2600,
+  "buildsFrom": [
+   1026,
+   3803
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6657.png"
+ },
+ {
+  "id": 6660,
+  "name": "Bami's Cinder",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 150
+  },
+  "tags": [
+   "Health",
+   "AbilityHaste"
+  ],
+  "cost": 900,
+  "buildsFrom": [
+   1028,
+   2022
+  ],
+  "buildsInto": [
+   3068,
+   6664
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6660.png"
+ },
+ {
+  "id": 6662,
+  "name": "Iceborn Gauntlet",
+  "patch": "16.22.1",
+  "summary": "High Magic Resist.Passively slow nearby enemies. When spells are cast near you, release a wave of energy that damages and slows.",
+  "stats": {
+   "FlatHPPoolMod": 300,
+   "FlatArmorMod": 50
+  },
+  "tags": [
+   "Health",
+   "Armor",
+   "CooldownReduction",
+   "Slow",
+   "OnHit",
+   "AbilityHaste"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3057,
+   1028,
+   1031
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6662.png"
+ },
+ {
+  "id": 6664,
+  "name": "Hollow Radiance",
+  "patch": "16.22.1",
+  "summary": "Immobilize enemies to gain a shield. Activate to run faster at opponents.",
+  "stats": {
+   "FlatSpellBlockMod": 40,
+   "FlatHPPoolMod": 400
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "HealthRegen",
+   "Aura",
+   "MagicResist",
+   "AbilityHaste"
+  ],
+  "cost": 2800,
+  "buildsFrom": [
+   6660,
+   3211
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6664.png"
+ },
+ {
+  "id": 6665,
+  "name": "Jak'Sho, The Protean",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatSpellBlockMod": 45,
+   "FlatHPPoolMod": 350,
+   "FlatArmorMod": 45
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "Armor",
+   "MagicResist"
+  ],
+  "cost": 3200,
+  "buildsFrom": [
+   1011,
+   1031,
+   1057
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6665.png"
+ },
+ {
+  "id": 6670,
+  "name": "Noonquiver",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatCritChanceMod": 0.2,
+   "FlatPhysicalDamageMod": 15
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike"
+  ],
+  "cost": 1300,
+  "buildsFrom": [
+   1036,
+   1018
+  ],
+  "buildsInto": [
+   2523,
+   3036,
+   6673
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6670.png"
+ },
+ {
+  "id": 6672,
+  "name": "Kraken Slayer",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 45,
+   "PercentAttackSpeedMod": 0.4,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Damage",
+   "AttackSpeed",
+   "OnHit",
+   "NonbootsMovement"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   6690,
+   3051,
+   1043
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6672.png"
+ },
+ {
+  "id": 6673,
+  "name": "Immortal Shieldbow",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 55
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   1037,
+   6670
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6673.png"
+ },
+ {
+  "id": 6675,
+  "name": "Navori Flickerblade",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "PercentAttackSpeedMod": 0.4,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "CriticalStrike",
+   "AttackSpeed",
+   "NonbootsMovement"
+  ],
+  "cost": 2650,
+  "buildsFrom": [
+   1042,
+   3086,
+   1042
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6675.png"
+ },
+ {
+  "id": 6676,
+  "name": "The Collector",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatCritChanceMod": 0.25,
+   "FlatPhysicalDamageMod": 50
+  },
+  "tags": [
+   "Damage",
+   "CriticalStrike",
+   "ArmorPenetration"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   1037,
+   3134,
+   1018
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6676.png"
+ },
+ {
+  "id": 6690,
+  "name": "Rectrix",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 15,
+   "PercentMovementSpeedMod": 0.04
+  },
+  "tags": [
+   "Damage",
+   "NonbootsMovement"
+  ],
+  "cost": 775,
+  "buildsFrom": [
+   1036
+  ],
+  "buildsInto": [
+   4003,
+   6700,
+   6672,
+   3142
+  ],
+  "kind": "component",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6690.png"
+ },
+ {
+  "id": 6692,
+  "name": "Eclipse",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 60
+  },
+  "tags": [
+   "Damage",
+   "CooldownReduction",
+   "AbilityHaste"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3133,
+   1037,
+   1036
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6692.png"
+ },
+ {
+  "id": 6694,
+  "name": "Serylda's Grudge",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 45
+  },
+  "tags": [
+   "Damage",
+   "CooldownReduction",
+   "ArmorPenetration",
+   "AbilityHaste"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   3133,
+   3035
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6694.png"
+ },
+ {
+  "id": 6695,
+  "name": "Serpent's Fang",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 55
+  },
+  "tags": [
+   "Damage",
+   "ArmorPenetration"
+  ],
+  "cost": 2500,
+  "buildsFrom": [
+   3134,
+   1037
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6695.png"
+ },
+ {
+  "id": 6696,
+  "name": "Axiom Arc",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 55
+  },
+  "tags": [
+   "Damage",
+   "ArmorPenetration",
+   "AbilityHaste"
+  ],
+  "cost": 2750,
+  "buildsFrom": [
+   2020,
+   3133
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6696.png"
+ },
+ {
+  "id": 6698,
+  "name": "Profane Hydra",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 55
+  },
+  "tags": [
+   "Damage",
+   "Active",
+   "CooldownReduction",
+   "ArmorPenetration",
+   "AbilityHaste"
+  ],
+  "cost": 2850,
+  "buildsFrom": [
+   3077,
+   2020
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6698.png"
+ },
+ {
+  "id": 6699,
+  "name": "Voltaic Cyclosword",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatPhysicalDamageMod": 55
+  },
+  "tags": [
+   "Damage",
+   "Active",
+   "CooldownReduction",
+   "ArmorPenetration",
+   "AbilityHaste"
+  ],
+  "cost": 3000,
+  "buildsFrom": [
+   2020,
+   1036,
+   1036
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6699.png"
+ },
+ {
+  "id": 8010,
+  "name": "Bloodletter's Curse",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatHPPoolMod": 400,
+   "FlatMagicDamageMod": 65
+  },
+  "tags": [
+   "Health",
+   "SpellDamage",
+   "CooldownReduction",
+   "MagicPenetration"
+  ],
+  "cost": 2900,
+  "buildsFrom": [
+   3147,
+   3108
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/8010.png"
+ },
+ {
+  "id": 8020,
+  "name": "Abyssal Mask",
+  "patch": "16.22.1",
+  "summary": "",
+  "stats": {
+   "FlatSpellBlockMod": 45,
+   "FlatHPPoolMod": 350
+  },
+  "tags": [
+   "Health",
+   "SpellBlock",
+   "CooldownReduction",
+   "MagicResist",
+   "AbilityHaste"
+  ],
+  "cost": 2650,
+  "buildsFrom": [
+   3067,
+   1057
+  ],
+  "buildsInto": [],
+  "kind": "completed",
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/8020.png"
+ }
+]
