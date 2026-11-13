@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+test-results/
+playwright-report/
+.DS_Store
+*.log
+.env
+.env.*
+# Impeccable ships a platform binary; reinstall with `npx impeccable install --no-hooks`
+.claude/skills/impeccable/scripts/bin/

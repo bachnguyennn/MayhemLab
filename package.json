@@ -1,0 +1,27 @@
+{
+  "name": "mayhem-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Qualitative build-planning explorer for League of Legends ARAM: Mayhem.",
+  "engines": { "node": ">=20" },
+  "workspaces": ["packages/*", "apps/*"],
+  "scripts": {
+    "dev": "npm run dev -w @mayhem-lab/web",
+    "build": "npm run build -w @mayhem-lab/web",
+    "preview": "npm run preview -w @mayhem-lab/web",
+    "typecheck": "tsc --noEmit -p tsconfig.json && npm run typecheck -w @mayhem-lab/web",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "check:compliance": "node scripts/qa/compliance-scan.mjs",
+    "data:ingest": "node scripts/data/ingest.mjs",
+    "verify": "npm run typecheck && npm run test && npm run build && npm run check:compliance"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}
