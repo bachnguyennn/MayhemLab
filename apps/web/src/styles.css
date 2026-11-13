@@ -1,0 +1,192 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-ground: oklch(0.155 0.02 250);
+  --color-panel: oklch(0.195 0.024 250);
+  --color-raised: oklch(0.235 0.028 250);
+  --color-line: oklch(0.32 0.03 250);
+  --color-line-strong: oklch(0.44 0.035 250);
+  --color-ink: oklch(0.94 0.015 85);
+  --color-soft: oklch(0.8 0.025 240);
+  --color-faint: oklch(0.68 0.03 240);
+  --color-gold: oklch(0.81 0.1 85);
+  --color-gold-deep: oklch(0.6 0.09 80);
+  --color-azure: oklch(0.77 0.11 225);
+  --color-good: oklch(0.82 0.13 165);
+  --color-bad: oklch(0.76 0.15 30);
+  --color-silver: oklch(0.84 0.012 250);
+  --color-prismatic: oklch(0.8 0.13 320);
+
+  --font-display: 'Marcellus', 'Iowan Old Style', Georgia, serif;
+  --font-sans: 'Barlow', system-ui, sans-serif;
+  --font-condensed: 'Barlow Semi Condensed', 'Barlow', system-ui, sans-serif;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@layer base {
+  html {
+    background: var(--color-ground);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    color-scheme: dark;
+    scrollbar-color: var(--color-line-strong) var(--color-ground);
+    scroll-padding-top: 5rem;
+  }
+  body {
+    min-height: 100dvh;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-variant-numeric: tabular-nums;
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection {
+    background: oklch(0.81 0.1 85 / 0.35);
+    color: var(--color-ink);
+  }
+  input {
+    caret-color: var(--color-gold);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-azure);
+    outline-offset: 2px;
+  }
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    text-wrap: balance;
+    letter-spacing: 0.01em;
+  }
+  a {
+    text-underline-offset: 0.2em;
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
+@layer components {
+  /* Signature move: the chamfered "cut" frame used for every piece of game imagery. */
+  .cut {
+    --c: 7px;
+    clip-path: polygon(var(--c) 0, calc(100% - var(--c)) 0, 100% var(--c), 100% calc(100% - var(--c)), calc(100% - var(--c)) 100%, var(--c) 100%, 0 calc(100% - var(--c)), 0 var(--c));
+  }
+  .cut-sm {
+    --c: 4px;
+  }
+  .cut-lg {
+    --c: 12px;
+  }
+  /* A cut frame with a visible edge: outer element is the edge colour, inner is the fill. */
+  .cut-frame {
+    padding: 1px;
+    background: var(--frame, var(--color-line-strong));
+  }
+
+  .label {
+    font-family: var(--font-condensed);
+    font-weight: 600;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-faint);
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 2.75rem;
+    padding: 0 1.1rem;
+    font-family: var(--font-condensed);
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    border: 1px solid var(--color-line-strong);
+    background: var(--color-raised);
+    color: var(--color-ink);
+    transition: background-color 150ms, border-color 150ms, color 150ms;
+  }
+  .btn:hover:not(:disabled) {
+    border-color: var(--color-gold);
+    color: var(--color-gold);
+  }
+  .btn-primary {
+    background: var(--color-gold);
+    border-color: var(--color-gold);
+    color: oklch(0.2 0.03 80);
+  }
+  .btn-primary:hover:not(:disabled) {
+    background: oklch(0.87 0.1 85);
+    color: oklch(0.2 0.03 80);
+  }
+  .btn-quiet {
+    min-height: 2.25rem;
+    padding: 0 0.75rem;
+    background: transparent;
+    font-size: 0.875rem;
+  }
+
+  .field {
+    width: 100%;
+    min-height: 2.75rem;
+    padding: 0 0.875rem 0 2.5rem;
+    background: var(--color-ground);
+    border: 1px solid var(--color-line-strong);
+    color: var(--color-ink);
+  }
+  .field::placeholder {
+    color: var(--color-faint);
+  }
+  .field:hover {
+    border-color: var(--color-soft);
+  }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.25rem;
+    padding: 0 0.8rem;
+    font-family: var(--font-condensed);
+    font-weight: 500;
+    font-size: 0.9rem;
+    border: 1px solid var(--color-line);
+    color: var(--color-soft);
+    background: transparent;
+    transition: border-color 150ms, color 150ms, background-color 150ms;
+  }
+  .chip:hover {
+    border-color: var(--color-soft);
+    color: var(--color-ink);
+  }
+  .chip[aria-pressed='true'] {
+    border-color: var(--color-gold);
+    color: var(--color-gold);
+    background: oklch(0.81 0.1 85 / 0.08);
+  }
+}
+
+/* The one authored motion: results settle in when the selection changes. */
+@keyframes settle {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+.settle {
+  animation: settle 420ms var(--ease-out-expo) both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .settle {
+    animation: none;
+  }
+  * {
+    transition-duration: 0ms !important;
+    scroll-behavior: auto !important;
+  }
+}

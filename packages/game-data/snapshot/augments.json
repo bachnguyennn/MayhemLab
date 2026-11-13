@@ -1,0 +1,2551 @@
+[
+ {
+  "id": "1424",
+  "apiName": "ARAM_MissingPingAugment",
+  "name": "???",
+  "description": "Your Missing Pings will launch a missile at the pinged location that damages enemies and heals allies.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "healing"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/missingping_small.png"
+ },
+ {
+  "id": "1205",
+  "apiName": "ARAM_ADAPt",
+  "name": "ADAPt",
+  "description": "Convert Bonus Attack Damage to Ability Power. Gain X% Ability Power.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "attack-damage",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/adapt_small.png"
+ },
+ {
+  "id": "1141",
+  "apiName": "ARAM_AllForYou",
+  "name": "All For You",
+  "description": "Your Heals and Shields are stronger when used on an ally.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/allforyou_small.png"
+ },
+ {
+  "id": "1002",
+  "apiName": "ARAM_ApexInventor",
+  "name": "Apex Inventor",
+  "description": "Gain X Item Haste (equivalent to X% Item CDR).\nItem Haste reduces the cooldown of all Item Abilities.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/apexinventor_small.png"
+ },
+ {
+  "id": "2087",
+  "apiName": "ARAM_Archmage",
+  "name": "Archmage",
+  "description": "Casting a spell refunds another random spell's cost by X% of the original spell's Cooldown.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/eureka_small.png"
+ },
+ {
+  "id": "1004",
+  "apiName": "ARAM_BacktoBasics",
+  "name": "Back To Basics",
+  "description": "Gain increased Ability Damage, Healing, Shielding, and Ability Haste, but you cannot use your Ultimate Ability.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "ultimate",
+   "healing",
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/backtobasics_small.png"
+ },
+ {
+  "id": "1180",
+  "apiName": "ARAM_BigBrain",
+  "name": "Big Brain",
+  "description": "Gain X Shield for every X Ability Power. Resets on death or 70 seconds after depletion.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "abilities",
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/bigbrain_small.png"
+ },
+ {
+  "id": "1006",
+  "apiName": "ARAM_BladeWaltz",
+  "name": "Blade Waltz",
+  "description": "Gain Blade Waltz as a Summoner Spell.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "summoner-spell"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/bladewaltz_small.png"
+ },
+ {
+  "id": "1007",
+  "apiName": "ARAM_BluntForce",
+  "name": "Blunt Force",
+  "description": "Gain X% Attack Damage.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-damage"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/bluntforce_small.png"
+ },
+ {
+  "id": "2003",
+  "apiName": "ARAM_PoroKing",
+  "name": "Bounce of the Poro King",
+  "description": "Gain Bounce of the Poro King!\nBounce of the Poro King: Transform into the Poro King, bouncing repeatedly, dealing physical damage and Knocking Back nearby enemies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "physical-damage",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/poroking_small.png"
+ },
+ {
+  "id": "1103",
+  "apiName": "ARAM_BreadAndButter",
+  "name": "Bread And Butter",
+  "description": "Your gains X Ability Haste.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+ },
+ {
+  "id": "1151",
+  "apiName": "ARAM_BreadAndCheese",
+  "name": "Bread and Cheese",
+  "description": "Your gains X Ability Haste.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+ },
+ {
+  "id": "1150",
+  "apiName": "ARAM_BreadAndJam",
+  "name": "Bread And Jam",
+  "description": "Your gains X Ability Haste.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+ },
+ {
+  "id": "1009",
+  "apiName": "ARAM_BuffBuddies",
+  "name": "Buff Buddies",
+  "description": "You gain Crest of Cinders and Crest of Insight.\nGranting yourself Ability Haste and resource regeneration and causing your Attacks to Burn and Slow enemy champions.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "crowd-control",
+   "damage-over-time"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/buffbuddies_small.png"
+ },
+ {
+  "id": "1011",
+  "apiName": "ARAM_CantTouchThis",
+  "name": "Can't Touch This",
+  "description": "Casting your Ultimate makes you Invulnerable for a short duration.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ultimate"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/canttouchthis_small.png"
+ },
+ {
+  "id": "1013",
+  "apiName": "ARAM_CelestialBody",
+  "name": "Celestial Body",
+  "description": "Gain X Health, but you deal X% less damage.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/celestialbody_small.png"
+ },
+ {
+  "id": "1397",
+  "apiName": "ARAM_Cerberus",
+  "name": "Cerberus",
+  "description": "Gain the Hail of Blades and Press the Attack Keystone Runes.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "basic-attacks"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/cerberus_small.png"
+ },
+ {
+  "id": "1313",
+  "apiName": "ARAM_Recall",
+  "name": "Cheating",
+  "description": "",
+  "descriptionSource": "missing",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/cheating_small.png"
+ },
+ {
+  "id": "1015",
+  "apiName": "ARAM_CircleofDeath",
+  "name": "Circle of Death",
+  "description": "Healing and Health Regen also deals magic damage to the nearest enemy champion.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "healing",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/circleofdeath_small.png"
+ },
+ {
+  "id": "1310",
+  "apiName": "ARAM_ClownCollege",
+  "name": "Clown College",
+  "description": "Gain Deceive Summoner Spell.\nGain Backstab Passive.\nWhen you die, deal a large amount of true damage and Fear nearby enemies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "true-damage",
+   "abilities",
+   "crowd-control",
+   "summoner-spell"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/clowncollege_small.png"
+ },
+ {
+  "id": "1018",
+  "apiName": "ARAM_CourageoftheColossus",
+  "name": "Courage of the Colossus",
+  "description": "Gain X Shield after Immobilizing or Grounding an enemy champion.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "shielding",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/courageofthecolossus_small.png"
+ },
+ {
+  "id": "1418",
+  "apiName": "ARAM_CrackOpenThatEgg",
+  "name": "Crack Open That Egg",
+  "description": "Your shields will detonate on expiration.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/crackopenthategg_small.png"
+ },
+ {
+  "id": "1118",
+  "apiName": "ARAM_CriticalHealing",
+  "name": "Critical Healing",
+  "description": "Your healing and Shields can Critically Strike for X% bonus amount. Gain X% Crit Chance.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "crit",
+   "healing",
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/criticalhealing_small.png"
+ },
+ {
+  "id": "1323",
+  "apiName": "ARAM_Cruelty",
+  "name": "Cruelty",
+  "description": "On Immobilizing or Grounding a champion, summon a comet that lands after a delay, dealing magic damage to nearby enemies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/cruelty_small.png"
+ },
+ {
+  "id": "1019",
+  "apiName": "ARAM_Dashing",
+  "name": "Dashing",
+  "description": "Your dash, leap, blink, or teleport Abilities gain X Ability Haste.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "mobility"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/dashing_small.png"
+ },
+ {
+  "id": "1020",
+  "apiName": "ARAM_DawnbringersResolve",
+  "name": "Dawnbringer's Resolve",
+  "description": "When dropping below X% Health, heal for X% max Health over 3 seconds.\nResets on death or every X seconds.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "healing",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/dawnbringersresolve_small.png"
+ },
+ {
+  "id": "1022",
+  "apiName": "ARAM_Deft",
+  "name": "Deft",
+  "description": "Gain X% Attack Speed.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/deft_small.png"
+ },
+ {
+  "id": "1023",
+  "apiName": "ARAM_DemonsDance",
+  "name": "Demon's Dance",
+  "description": "Gain the Fleet Footwork and Grasp of the Undying Keystone Runes.\n• Fleet Footwork: Attacking and moving builds Energy stacks. At 100 stacks, your next Attack heals you and grants increased Movement Speed.\n• Grasp of the Undying: Every X stacks, your next Attack on a champion deals bonus magic damage, heals you, and permanently increases your Health.\nTotal Healing Done: X\nMax Health Gained: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "healing",
+   "health",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/demonsdance_small.png"
+ },
+ {
+  "id": "2007",
+  "apiName": "ARAM_LittleDevil",
+  "name": "Devil on Your Shoulder",
+  "description": "Forge a pact with The Little Devil himself.\nHe drains your life over time but rewards by applying bonus true damage against champions and creating healing remnants for you to acquire.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "true-damage",
+   "healing",
+   "sustain"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/littledevil_small.png"
+ },
+ {
+  "id": "1025",
+  "apiName": "ARAM_DiveBomber",
+  "name": "Dive Bomber",
+  "description": "Explodes when you die, dealing massive true damage.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "true-damage"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/divebomber_small.png"
+ },
+ {
+  "id": "1301",
+  "apiName": "ARAM_DivineIntervention",
+  "name": "Divine Intervention",
+  "description": "Every X seconds, Autocast a protective star that slowly descends upon you. When it lands, you and nearby allies become Invulnerable for X seconds.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/slowactingpainkillers_small.png"
+ },
+ {
+  "id": "1026",
+  "apiName": "ARAM_DontBlink",
+  "name": "Don't Blink",
+  "description": "Gain X% bonus damage per 10 Movement Speed more you have than the target.\nBonus Damage: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/dontblink_small.png"
+ },
+ {
+  "id": "2010",
+  "apiName": "ARAM_DoubleTap",
+  "name": "Double Tap",
+  "description": "Your Critical Strikes apply On-Hit effects an additional time.\nGain X Crit chance.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "on-hit",
+   "crit"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/dualwield_small.png"
+ },
+ {
+  "id": "1134",
+  "apiName": "ARAM_DrawYourSword",
+  "name": "Draw Your Sword",
+  "description": "Become melee and gain Attack Damage, Health, Attack Speed, Lifesteal, and Movement Speed (scaling with the range you give up).",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "attack-damage",
+   "physical-damage",
+   "healing",
+   "sustain",
+   "health",
+   "move-speed",
+   "range"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/drawyoursword_small.png"
+ },
+ {
+  "id": "2031",
+  "apiName": "ARAM_DropBear",
+  "name": "DropBear",
+  "description": "On death, a giant Tibbers with all your augments falls from the sky and damages nearby enemies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/drop_bear_small.png"
+ },
+ {
+  "id": "2006",
+  "apiName": "ARAM_Dropkick",
+  "name": "Dropkick",
+  "description": "Your Attacks and Abilities execute low Health enemy champions, Knocking Back and causing an explosion while healing you.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "healing",
+   "health",
+   "crowd-control",
+   "execute"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/dropkick_small.png"
+ },
+ {
+  "id": "1225",
+  "apiName": "ARAM_DualWield",
+  "name": "Dual Wield",
+  "description": "Attacks fire a bolt that applies effects at reduced strength. Gain X% total Attack Speed.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/dualwield_small.png"
+ },
+ {
+  "id": "1027",
+  "apiName": "ARAM_Earthwake",
+  "name": "Earthwake",
+  "description": "Your dash, blink, or teleport Abilities leave behind a trail that detonates after X second.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "mobility"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/earthwake_small.png"
+ },
+ {
+  "id": "2004",
+  "apiName": "ARAM_EmpoweredByTheFaithful",
+  "name": "Empowered By The Faithful",
+  "description": "Healing or Shielding allies blesses them, causing their damage to fill you with devotion.\nWhen you have enough devotion, unleash a shockwave dealing magic damage and executes low health enemies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "healing",
+   "shielding",
+   "health",
+   "execute"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/empoweredbythefaithful_small.png"
+ },
+ {
+  "id": "2098",
+  "apiName": "ARAM_EndlessHunt",
+  "name": "En Passant",
+  "description": "Periodically identify Vitals on enemy champions. Hitting them with Attacks or Abilities deals max Health true damage, restores Health, and grants Movement Speed. These effects can stack.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "true-damage",
+   "abilities",
+   "healing",
+   "health",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/dashing_small.png"
+ },
+ {
+  "id": "1028",
+  "apiName": "ARAM_Erosion",
+  "name": "Erosion",
+  "description": "Damaging enemies adds a stacking Armor and Magic Resist shred for Xs.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "resistances"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/erosion_small.png"
+ },
+ {
+  "id": "1206",
+  "apiName": "ARAM_escAPADe",
+  "name": "escAPADe",
+  "description": "Convert Ability Power to Bonus Attack Damage. Gain X% Attack Damage.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "attack-damage",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/escapade_small.png"
+ },
+ {
+  "id": "1029",
+  "apiName": "ARAM_EtherealWeapon",
+  "name": "Ethereal Weapon",
+  "description": "Your Abilities apply effects. 1 second Cooldown per target.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/etherealweapon_small.png"
+ },
+ {
+  "id": "1030",
+  "apiName": "ARAM_Eureka",
+  "name": "Eureka",
+  "description": "Gain Ability Haste equal to X% Ability Power.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/eureka_small.png"
+ },
+ {
+  "id": "1032",
+  "apiName": "ARAM_Executioner",
+  "name": "Executioner",
+  "description": "Deal X% more damage to enemies below X% Health. Reset your basic Abilities on takedown.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/spiritualpurification_small.png"
+ },
+ {
+  "id": "1220",
+  "apiName": "ARAM_FanTheHammer",
+  "name": "Fan The Hammer",
+  "description": "Attacks against enemy champions fire X missiles that deal more damage with distance. Each direction has its own Cooldown.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/fanthehammer_small.png"
+ },
+ {
+  "id": "1035",
+  "apiName": "ARAM_FeeltheBurn",
+  "name": "Feel the Burn",
+  "description": "Gain the Feel the Burn Summoner Spell.\nFeel the Burn casts Ignite and Exhaust on all nearby enemy champions.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "damage-over-time",
+   "summoner-spell"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/feeltheburn_small.png"
+ },
+ {
+  "id": "1194",
+  "apiName": "ARAM_FeyMagic",
+  "name": "Fey Magic",
+  "description": "Damaging with your Ultimate Polymorphs enemies for a few seconds.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ultimate"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/feymagic_small.png"
+ },
+ {
+  "id": "1036",
+  "apiName": "ARAM_Firebrand",
+  "name": "Firebrand",
+  "description": "Your Attacks also Burn enemies, dealing X% max Health magic damage damage per second over X seconds. This Burn stacks infinitely.\nDamage Dealt: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "health",
+   "damage-over-time"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/firebrand_small.png"
+ },
+ {
+  "id": "1308",
+  "apiName": "ARAM_Firefox",
+  "name": "FireFox",
+  "description": "Autocast: Gain X% movement speed and conjure three flames that orbit you every X seconds, targetting the closest visible enemy in range and dealing X adaptive damage. Subsequent hits do X% damage.\nDamage Dealt Total: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "move-speed",
+   "range"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/firfox_small.png"
+ },
+ {
+  "id": "1037",
+  "apiName": "ARAM_FirstAidKit",
+  "name": "First-Aid Kit",
+  "description": "Gain X% Heal and Shield Power.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/firstaidkit_small.png"
+ },
+ {
+  "id": "1187",
+  "apiName": "ARAM_Flashbang",
+  "name": "Flashbang",
+  "description": "Your Flash causes an explosion that damages and Slows (resets on death).",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/flashbang_small.png"
+ },
+ {
+  "id": "1116",
+  "apiName": "ARAM_Flashy",
+  "name": "Flashy",
+  "description": "Your Flash has X charges. After X seconds, regain all charges.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/flashy_small.png"
+ },
+ {
+  "id": "1038",
+  "apiName": "ARAM_FromBeginningToEnd",
+  "name": "From Beginning To End",
+  "description": "Gain the First Strike and Dark Harvest Keystone Runes.\n• First Strike: When you initiate champion combat, deal X% extra damage for X seconds and gain Gold based on damage dealt.\n• Dark Harvest: Damaging a low Health champion inflicts adaptive damage and harvests a soul from the victim.\nDamage Dealt: X\nGold Gained: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "health",
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/frombeginningtoend_small.png"
+ },
+ {
+  "id": "2103",
+  "apiName": "ARAM_BangBang",
+  "name": "From Downtown",
+  "description": "QUEST: Snipe X enemy champions with abilities\nREWARD: Send a meteor at Sniped enemy champions, dealing Magic damage in an area around them",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "abilities",
+   "quest"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/questbangbang_small.png"
+ },
+ {
+  "id": "1039",
+  "apiName": "ARAM_FrostWraith",
+  "name": "Frost Wraith",
+  "description": "Autocast Root nearby enemies for X seconds every X seconds.\nEnemies Rooted: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/frostwraith_small.png"
+ },
+ {
+  "id": "1322",
+  "apiName": "ARAM_GetExcited",
+  "name": "Get Excited!",
+  "description": "Increase Movement Speed and Attack Speed for X seconds on takedown.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/getexcited_small.png"
+ },
+ {
+  "id": "1195",
+  "apiName": "ARAM_GiantSlayer",
+  "name": "Giant Slayer",
+  "description": "Become tiny, gain Movement Speed, and gain bonus damage to champions based on how much larger they are than you.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "move-speed",
+   "size"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/giantslayer_small.png"
+ },
+ {
+  "id": "1041",
+  "apiName": "ARAM_Goliath",
+  "name": "Goliath",
+  "description": "Become large, gaining X% Health and X% Adaptive Force.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "adaptive-force",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/goliath_small.png"
+ },
+ {
+  "id": "1138",
+  "apiName": "ARAM_Goredrink",
+  "name": "Goredrink",
+  "description": "Gain X% Omnivamp.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "sustain"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/goredrink_small.png"
+ },
+ {
+  "id": "1042",
+  "apiName": "ARAM_GuiltyPleasure",
+  "name": "Guilty Pleasure",
+  "description": "Immobilizing or Grounding enemy champions restores X Health.\nTotal Healing Done: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "health",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/guiltypleasure_small.png"
+ },
+ {
+  "id": "2001",
+  "apiName": "ARAM_WatchOutGrapefruit",
+  "name": "Heads Up Cupcake!",
+  "description": "Cupcakes will intermittently fly across the bridge. Cupcakes grant Gold to whoever catches them and restore Health to the first champion hit plus their nearby allies. Gain Gold based on the amount healed.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "on-hit",
+   "healing",
+   "health",
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/watchoutgrapefruit_small.png"
+ },
+ {
+  "id": "1181",
+  "apiName": "ARAM_HeavyHitter",
+  "name": "Heavy Hitter",
+  "description": "Your Attacks deal additional physical damage equal to X% of your max Health.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "physical-damage",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/heavyhitter_small.png"
+ },
+ {
+  "id": "2107",
+  "apiName": "ARAM_Hellbent",
+  "name": "Hellbent",
+  "description": "Damaging enemy champions with Attacks or Abilities grants stacks. At max stacks, you revive empowered upon death.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/hellbent_small.png"
+ },
+ {
+  "id": "2095",
+  "apiName": "ARAM_HighRoller",
+  "name": "High Roller",
+  "description": "Nearby enemies have a chance to drop Stat Anvils on death.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/highroller_small.png"
+ },
+ {
+  "id": "1198",
+  "apiName": "ARAM_HolyFire",
+  "name": "Holy Fire",
+  "description": "Healing or Shielding applies an infinitely stacking Burn to a nearby enemy, dealing up to X% max Health magic damage over X seconds (minimum X%).\nDamage scales with the relative size of the heal or Shielding to the max Health of the champion being aided.\nDamage Dealt: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "healing",
+   "shielding",
+   "health",
+   "damage-over-time",
+   "size"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/holyfire_small.png"
+ },
+ {
+  "id": "1105",
+  "apiName": "ARAM_Homeguard",
+  "name": "Homeguard",
+  "description": "Gain X% Move Speed, disabled for X seconds after taking damage.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/homeguard_small.png"
+ },
+ {
+  "id": "1361",
+  "apiName": "ARAM_Quest_VoidImmolation",
+  "name": "Icathia's Fall",
+  "description": "Immediately: Gain a Bami's Cinder.\nQUEST: Possess Sunfire Aegis and Hollow Radiance.\nREWARD: These Items combine into Void Immolation.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "quest"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/quest_voidimmolation_small.png"
+ },
+ {
+  "id": "1044",
+  "apiName": "ARAM_IceCold",
+  "name": "Ice Cold",
+  "description": "Your Slowing effects reduce Movement Speed by an extra X.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "move-speed",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/icecold_small.png"
+ },
+ {
+  "id": "1149",
+  "apiName": "ARAM_Impassable",
+  "name": "Impassable",
+  "description": "Gain the Aftershock and Glacial Augment Keystone Runes.\n• Aftershock: After Immobilizing an enemy champion, gain defenses and later deal a burst of magic damage around you.\n• Glacial Augment: Immobilizing an enemy champion will spawn X glacial rays that Slow nearby enemies and reduce their damage to your allies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/impassable_small.png"
+ },
+ {
+  "id": "1045",
+  "apiName": "ARAM_InfernalConduit",
+  "name": "Infernal Conduit",
+  "description": "Your Abilities apply stacking Burn that deals damage over time.\nYour Burn effects reduce your basic Ability Cooldowns.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "damage-over-time"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/infernalconduit_small.png"
+ },
+ {
+  "id": "1046",
+  "apiName": "ARAM_InfernalSoul",
+  "name": "Infernal Soul",
+  "description": "You gain the Infernal Dragon Soul, dealing bonus damage when you hit enemies with Abilities or Attacks.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/infernalsoul_small.png"
+ },
+ {
+  "id": "1047",
+  "apiName": "ARAM_ItsCritical",
+  "name": "It's Critical",
+  "description": "Gain X% Crit chance.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "crit"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/itscritical_small.png"
+ },
+ {
+  "id": "1211",
+  "apiName": "ARAM_ItsKillingTime",
+  "name": "It's Killing Time",
+  "description": "After casting your Ultimate, mark all enemies and store up damage you deal to them. When it ends, detonate the damage.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ultimate"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/itskillingtime_small.png"
+ },
+ {
+  "id": "1048",
+  "apiName": "ARAM_JeweledGauntlet",
+  "name": "Jeweled Gauntlet",
+  "description": "Your Abilities can Critically Strike for X% increased damage.\nGain X Crit Chance.\nDamage Dealt to Champions: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "crit",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/jeweledgauntlet_small.png"
+ },
+ {
+  "id": "2016",
+  "apiName": "ARAM_Juiced",
+  "name": "Juiced",
+  "description": "On-Hit deal X magic damage, this damage can Critically Strike.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "on-hit",
+   "crit",
+   "magic-damage"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/juiced_small.png"
+ },
+ {
+  "id": "1050",
+  "apiName": "ARAM_KeystoneConjurer",
+  "name": "Keystone Conjurer",
+  "description": "Gain the Summon Aery and Arcane Comet Keystone Runes.\n• Summon Aery: Your Attacks and Abilities send Aery to a target, damaging enemies or Shielding allies.\n• Arcane Comet: Damaging a champion with an Ability hurls a damaging comet at their location.\nDamage Dealt: X\nShields Generated: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/keystoneconjurer_small.png"
+ },
+ {
+  "id": "1305",
+  "apiName": "ARAM_LegDay",
+  "name": "Leg Day",
+  "description": "Gain X Movement Speed and X% Slow Resist.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "move-speed",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/legday_small.png"
+ },
+ {
+  "id": "1051",
+  "apiName": "ARAM_LightemUp",
+  "name": "Light 'Em Up!",
+  "description": "Every 4th Attack shoots 4 missiles dealing magic damage .",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/lightemup_small.png"
+ },
+ {
+  "id": "1052",
+  "apiName": "ARAM_LightningStrikes",
+  "name": "Lightning Strikes",
+  "description": "Gain X% total Attack Speed.\nAt X Attacks per second, deal additional magic damage .",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "magic-damage",
+   "damage-over-time"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/lightningstrikes_small.png"
+ },
+ {
+  "id": "1053",
+  "apiName": "ARAM_MadScientist",
+  "name": "Mad Scientist",
+  "description": "On each Revive, you grow large (gaining Adaptive Force and Health) or tiny (gaining Ability Haste and Movement Speed).",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "adaptive-force",
+   "ability-haste",
+   "abilities",
+   "health",
+   "move-speed",
+   "size"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/madscientist_small.png"
+ },
+ {
+  "id": "1133",
+  "apiName": "ARAM_MagicMissile",
+  "name": "Magic Missile",
+  "description": "Dealing Ability damage fires X missiles, each dealing percent max Health true damage based on distance traveled.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "true-damage",
+   "abilities",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/maps/particles/kiwi/magicmissile_small.png"
+ },
+ {
+  "id": "1129",
+  "apiName": "ARAM_Marksmage",
+  "name": "Marksmage",
+  "description": "Your Attacks deal an additional X physical damage.\nDamage Dealt Total: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "physical-damage"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/marksmage_small.png"
+ },
+ {
+  "id": "1054",
+  "apiName": "ARAM_MasterofDuality",
+  "name": "Master of Duality",
+  "description": "Your Attacks grant you stacking Ability Power and your Abilities that damage enemies grant you Attack Damage.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "attack-damage",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/masterofduality_small.png"
+ },
+ {
+  "id": "1056",
+  "apiName": "ARAM_MindtoMatter",
+  "name": "Mind to Matter",
+  "description": "Increase max Health by half of your Mana.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "mana",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/mindtomatter_small.png"
+ },
+ {
+  "id": "1104",
+  "apiName": "ARAM_Minionmancer",
+  "name": "Minionmancer",
+  "description": "Your summons gain X% increased size, health, and damage.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "health",
+   "size"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/minionmancer_small.png"
+ },
+ {
+  "id": "1057",
+  "apiName": "ARAM_MountainSoul",
+  "name": "Mountain Soul",
+  "description": "You gain the Mountain Soul, gaining a Shield after being out of combat for a short time.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/mountainsoul_small.png"
+ },
+ {
+  "id": "2055",
+  "apiName": "ARAM_Multishot",
+  "name": "Multishot",
+  "description": "",
+  "descriptionSource": "missing",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png"
+ },
+ {
+  "id": "1058",
+  "apiName": "ARAM_MysticPunch",
+  "name": "Mystic Punch",
+  "description": "reduce the cooldown of your abilities by X seconds .",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/mysticpunch_small.png"
+ },
+ {
+  "id": "1060",
+  "apiName": "ARAM_OceanSoul",
+  "name": "Ocean Soul",
+  "description": "Gain the Ocean Soul, granting high Health and Mana Regen after damaging enemies.\nTotal Healing Done: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "mana",
+   "healing",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/oceansoul_small.png"
+ },
+ {
+  "id": "1061",
+  "apiName": "ARAM_OkBoomerang",
+  "name": "Ok Boomerang",
+  "description": "Autocast a boomerang at a nearby enemy every X seconds, dealing X adaptive damage to enemies hit.\nDamage Dealt: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/okboomerang_small.png"
+ },
+ {
+  "id": "1062",
+  "apiName": "ARAM_OmniSoul",
+  "name": "Omni Soul",
+  "description": "Gain X random Dragon Souls.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/omnisoul_small.png"
+ },
+ {
+  "id": "1208",
+  "apiName": "ARAM_OrbitalLaser_Active",
+  "name": "Orbital Laser",
+  "description": "Gain Orbital Laser Summoner Spell.\nAfter a delay, call down an orbital laser that deals X% max Health true damage plus X magic damage over X seconds.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "true-damage",
+   "abilities",
+   "health",
+   "summoner-spell"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/orbitallaser_small.png"
+ },
+ {
+  "id": "1063",
+  "apiName": "ARAM_OutlawsGrit",
+  "name": "Outlaw's Grit",
+  "description": "After using a Dash, Blink, or Teleport Ability you gain X Armor and Magic Resist up to X stacks.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "resistances",
+   "mobility"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/outlawsgrit_small.png"
+ },
+ {
+  "id": "1311",
+  "apiName": "ARAM_Overflow",
+  "name": "Overflow",
+  "description": "Your Mana costs are doubled.\nYour Ability Heals, Shields, and damage are increased based on your max Mana.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "mana",
+   "healing",
+   "shielding"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/overflow_small.png"
+ },
+ {
+  "id": "12317",
+  "apiName": "ARAM_PandorasBox",
+  "name": "Pandora's Box",
+  "description": "Transmute all of your augments into random Prismatic Augments.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/pandoras_box_small.png"
+ },
+ {
+  "id": "1064",
+  "apiName": "ARAM_Perseverance",
+  "name": "Perseverance",
+  "description": "Gain X% base Health Regen, increased to X% base Health Regen below 25% Health.\nTotal Healing Done: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/perseverance_small.png"
+ },
+ {
+  "id": "1390",
+  "apiName": "ARAM_PhenomenalEvil",
+  "name": "Phenomenal Evil",
+  "description": "Permanently gain X Ability Power when you damage enemy champions with Abilities.\nIf taken as your second Augment, starts with X Ability Power.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/aram_phenomenalevil_small.png"
+ },
+ {
+  "id": "1409",
+  "apiName": "ARAM_Poro_Blast",
+  "name": "Poro Blaster",
+  "description": "",
+  "descriptionSource": "missing",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/poroblast_small.png"
+ },
+ {
+  "id": "1324",
+  "apiName": "ARAM_ProteinShake",
+  "name": "Protein Shake",
+  "description": "Gain X% Heal and Shield Power based on bonus Armor and Magic Resist.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "shielding",
+   "resistances"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/proteinshake_small.png"
+ },
+ {
+  "id": "2018",
+  "apiName": "ARAM_Purist_Caster",
+  "name": "Purist - Caster",
+  "description": "Gain percent cooldown reduction and convert all of your Attack Speed into Ability Haste.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/puristcaster_small.png"
+ },
+ {
+  "id": "2100",
+  "apiName": "ARAM_SpecializedRecursion",
+  "name": "Pursuit of Haste",
+  "description": "QUEST: Hit enemy champions with X times.\nREWARD: Gain Ability Haste on per Quest Level up to X.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "quest"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+ },
+ {
+  "id": "1066",
+  "apiName": "ARAM_QuantumComputing",
+  "name": "Quantum Computing",
+  "description": "Periodically Autocast a massive slash. Enemies hit are Slowed, take additional max Health damage, and heal you.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "physical-damage",
+   "healing",
+   "health",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/quantumcomputing_small.png"
+ },
+ {
+  "id": "2064",
+  "apiName": "ARAM_Quickstep",
+  "name": "Quickstep",
+  "description": "",
+  "descriptionSource": "missing",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+ },
+ {
+  "id": "1068",
+  "apiName": "ARAM_Recursion",
+  "name": "Recursion",
+  "description": "Gain X Ability Haste.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/recursion_small.png"
+ },
+ {
+  "id": "1067",
+  "apiName": "ARAM_RabbleRousing",
+  "name": "Rejuvenation",
+  "description": "Using restores Health.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/rabblerousing_small.png"
+ },
+ {
+  "id": "1069",
+  "apiName": "ARAM_Repulsor",
+  "name": "Repulsor",
+  "description": "On dropping below X% Health, Knock Back nearby enemies and Slow them for X%.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "health",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/repulsor_small.png"
+ },
+ {
+  "id": "1070",
+  "apiName": "ARAM_RestlessRestoration",
+  "name": "Restless Restoration",
+  "description": "You constantly heal while moving.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "healing"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/restlessrestoration_small.png"
+ },
+ {
+  "id": "2099",
+  "apiName": "ARAM_DivineDomain",
+  "name": "Rite of Ascension",
+  "description": "On takedown, enemy champions leave behind their Essence. Attacking the Essence grants movement speed and resets basic ability cooldowns.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/glasscannon_small.png"
+ },
+ {
+  "id": "1170",
+  "apiName": "ARAM_ScopedWeapons",
+  "name": "Scoped Weapons",
+  "description": "Gain X Attack Range.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "range"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/scopedweapons_small.png"
+ },
+ {
+  "id": "1071",
+  "apiName": "ARAM_ScopierWeapons",
+  "name": "Scopier Weapons",
+  "description": "Gain X Attack Range.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "range"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/scopierweapons_small.png"
+ },
+ {
+  "id": "1115",
+  "apiName": "ARAM_ScopiestWeapons",
+  "name": "Scopiest Weapons",
+  "description": "Gain X Attack Range.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "range"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/scopiestweapons_small.png"
+ },
+ {
+  "id": "1072",
+  "apiName": "ARAM_SearingDawn",
+  "name": "Searing Dawn",
+  "description": "Your Abilities mark enemies, causing them to take an additional X magic damage from your ally's next Attack or Ability.\nDamage Dealt Total: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/searingdawn_small.png"
+ },
+ {
+  "id": "1108",
+  "apiName": "ARAM_SelfDestruct",
+  "name": "Self Destruct",
+  "description": "Every X seconds, attach a bomb to you. After X seconds, it explodes for true damage and Knocks Up enemies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "true-damage",
+   "ability-haste",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/maps/particles/kiwi/selfdestruct_small.png"
+ },
+ {
+  "id": "1073",
+  "apiName": "ARAM_ShadowRunner",
+  "name": "Shadow Runner",
+  "description": "After using a Dash, Blink, or Teleport Ability or exiting Stealth, gain Movement Speed.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "move-speed",
+   "mobility"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/shadowrunner_small.png"
+ },
+ {
+  "id": "1074",
+  "apiName": "ARAM_ShrinkRay",
+  "name": "Shrink Ray",
+  "description": "Your Attacks reduce an enemy's damage by X% for 3 seconds.\nDamage Reduced: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/shrinkray_small.png"
+ },
+ {
+  "id": "2073",
+  "apiName": "ARAM_SustainingStrike",
+  "name": "Siphon",
+  "description": "Damaging enemy champions with heals you.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "healing"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png"
+ },
+ {
+  "id": "1113",
+  "apiName": "ARAM_SkilledSniper",
+  "name": "Skilled Sniper",
+  "description": "Snipe an enemy with a non-Ultimate Ability refunds X% Cooldown (X% for periodic Abilities).",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "ultimate"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/skilledsniper_small.png"
+ },
+ {
+  "id": "1136",
+  "apiName": "ARAM_SlapAround",
+  "name": "Slap Around",
+  "description": "Gain X Adaptive Force when you Immobilize or Ground an enemy. Lose X% on death.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "adaptive-force",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/slaparound_small.png"
+ },
+ {
+  "id": "1250",
+  "apiName": "ARAM_SlowAndSteady",
+  "name": "Slow And Steady",
+  "description": "Your Attack Speed becomes X. All Bonus Attack Speed is converted to Attack Damage. (X Plus X AD per 1% AS).",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "attack-damage"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/slowandsteady_small.png"
+ },
+ {
+  "id": "1075",
+  "apiName": "ARAM_SlowCooker",
+  "name": "Slow Cooker",
+  "description": "Every second, apply an infinitely stacking Burn to nearby enemy champions, dealing X magic damage per second for X seconds.\nDamage Dealt: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "damage-over-time"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/slowcooker_small.png"
+ },
+ {
+  "id": "2088",
+  "apiName": "ARAM_Snowday",
+  "name": "Snowday",
+  "description": "Snowball gains X Ability Haste and deals 100% increased damage.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/snowday_small.png"
+ },
+ {
+  "id": "1076",
+  "apiName": "ARAM_SonicBoom",
+  "name": "Sonic Boom",
+  "description": "Buffing, Healing, or Shielding your ally deals damage and Slows enemies surrounding them.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "shielding",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/sonicboom_small.png"
+ },
+ {
+  "id": "1077",
+  "apiName": "ARAM_SoulSiphon",
+  "name": "Soul Siphon",
+  "description": "Gain X% Crit Chance and X% Lifesteal on Critical Strikes.\nTotal Healing Done: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "crit",
+   "healing",
+   "sustain"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/soulsiphon_small.png"
+ },
+ {
+  "id": "1405",
+  "apiName": "ARAM_SpeedDemon",
+  "name": "Speed Demon",
+  "description": "Gain X Movement Speed when damaging an enemy champion with an Ability, decaying over X seconds.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/speeddemon_small.png"
+ },
+ {
+  "id": "1214",
+  "apiName": "ARAM_SpinToWin",
+  "name": "Spin To Win",
+  "description": "Your spin Abilities gain X Ability Haste and deal X more damage, increase to X for Ultimates",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/spintowin_small.png"
+ },
+ {
+  "id": "2104",
+  "apiName": "ARAM_SpiritBomb",
+  "name": "Spirit Bomb",
+  "description": "Healing and Shielding allied champions builds up a Spirit Bomb. At max stacks, toss the bomb onto lowest Health ally to heal and shield them and nearby allies.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "shielding",
+   "health"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/spiritbomb_small.png"
+ },
+ {
+  "id": "1345",
+  "apiName": "ARAM_SpiritualPurification",
+  "name": "Spiritual Purification",
+  "description": "On takedown, creates an explosion that slows other nearby enemies by X%, and deals damage based on their current Health.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "health",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/spiritualpurification_small.png"
+ },
+ {
+  "id": "1204",
+  "apiName": "ARAM_StackosaurusRex",
+  "name": "Stackosaurus Rex",
+  "description": "When you gain permanent Stacks of an Ability, gain X% more!",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/stackosaurusrex_small.png"
+ },
+ {
+  "id": "1402",
+  "apiName": "ARAM_StatsOnStatsOnStats",
+  "name": "Stats on Stats on Stats!",
+  "description": "Gain X Stat Anvils, with a higher chance of Gold and Prismatic Anvils!\nOn your next Augment selection, gain one additional reroll per slot.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/statsonstatsonstats_small.png"
+ },
+ {
+  "id": "1403",
+  "apiName": "ARAM_StatsOnStats",
+  "name": "Stats on Stats!",
+  "description": "Gain X Stat Anvils!",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/statsonstats_small.png"
+ },
+ {
+  "id": "1404",
+  "apiName": "ARAM_Stats",
+  "name": "Stats!",
+  "description": "Gain X Stat Anvils, with a higher chance of Gold and Prismatic Anvils!",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/stats_small.png"
+ },
+ {
+  "id": "1152",
+  "apiName": "ARAM_Quest_SteelYourHeart",
+  "name": "Steel Your Heart",
+  "description": "QUEST: Possess Heartsteel with X+ stacks.\nREWARD: Multiply your Heartsteel stacks by X.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "quest"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/quest_steelyourheart_small.png"
+ },
+ {
+  "id": "1413",
+  "apiName": "ARAM_StuckInHereWithMe",
+  "name": "Stuck In Here With Me",
+  "description": "Using your Ultimate Taunts nearby enemies and grants you damage reduction.\nGain X Ultimate Ability Haste.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "ultimate",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/stuckinherewithme_small.png"
+ },
+ {
+  "id": "1079",
+  "apiName": "ARAM_SymphonyofWar",
+  "name": "Symphony of War",
+  "description": "Gain the Lethal Tempo and Conqueror Keystone Runes.\n• Lethal Tempo - Attacking champions grants Attack Speed, stacking up to 6 times. At 6 stacks, your Attacks launch a bolt that deals additional damage.\n• Conqueror: Gain stacks of Adaptive Force when attacking enemy champions. After reaching X stacks, heal for a portion of damage you deal to champions.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "basic-attacks",
+   "adaptive-force",
+   "healing"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/symphonyofwar_small.png"
+ },
+ {
+  "id": "1353",
+  "apiName": "ARAM_TankEngine",
+  "name": "Tank Engine",
+  "description": "On takedown, gain a stack that increases your size and max Health. Lose stacks on death.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "health",
+   "size"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/tank_engine_small.png"
+ },
+ {
+  "id": "1080",
+  "apiName": "ARAM_TankItOrLeaveIt",
+  "name": "Tank It Or Leave It",
+  "description": "You can Critically Defend using your Crit Chance (max X% chance), giving you a chance to reduce damage taken by X%. Gain X% Crit Chance.\nDamage Reduced: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "crit"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/tankitorleaveit_small.png"
+ },
+ {
+  "id": "1081",
+  "apiName": "ARAM_TapDancer",
+  "name": "Tap Dancer",
+  "description": "Your Attacks grant you Movement Speed. Gain Attack Speed based on your Movement Speed.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/tapdancer_small.png"
+ },
+ {
+  "id": "2065",
+  "apiName": "ARAM_Terror",
+  "name": "Terror",
+  "description": "Whenever you cast , Fear enemies around you.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/desecrator_large.png"
+ },
+ {
+  "id": "1082",
+  "apiName": "ARAM_TheBrutalizer",
+  "name": "The Brutalizer",
+  "description": "Gain X Attack Damage, X Ability Haste, and X Lethality.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-damage",
+   "armor-pen",
+   "ability-haste",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/thebrutalizer_small.png"
+ },
+ {
+  "id": "1084",
+  "apiName": "ARAM_ThreadtheNeedle",
+  "name": "Thread the Needle",
+  "description": "Gain X% Armor Penetration and Magic Penetration.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "armor-pen",
+   "magic-pen"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/threadtheneedle_small.png"
+ },
+ {
+  "id": "1001",
+  "apiName": "ARAM_ImTheJuggernaut",
+  "name": "Titan's Resolve",
+  "description": "Gain stacks when taking or dealing damage. For every X stacks, gain Adaptive Force, Armor, Magic Resist, Size, and Tenacity.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "adaptive-force",
+   "resistances",
+   "size",
+   "tenacity"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/iamthejuggernaut_small.png"
+ },
+ {
+  "id": "1085",
+  "apiName": "ARAM_Tormentor",
+  "name": "Tormentor",
+  "description": "Immobilizing or Grounding enemy champions applies a Burn, dealing X% max Health magic damage per second for X seconds. The Burn stacks infinitely.\nDamage Dealt: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "magic-damage",
+   "health",
+   "crowd-control",
+   "damage-over-time"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/tormentor_small.png"
+ },
+ {
+  "id": "1243",
+  "apiName": "ARAM_TransmuteChaos",
+  "name": "Transmute: Chaos",
+  "description": "Gain X random Augments.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/transmutechaos_small.png"
+ },
+ {
+  "id": "1237",
+  "apiName": "ARAM_TransmuteGold",
+  "name": "Transmute: Gold",
+  "description": "Gain a random Gold Augment.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/transmutegold_small.png"
+ },
+ {
+  "id": "1238",
+  "apiName": "ARAM_TransmutePrismatic",
+  "name": "Transmute: Prismatic",
+  "description": "Gain a random Prismatic Augment.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/transmuteprismatic_small.png"
+ },
+ {
+  "id": "2005",
+  "apiName": "ARAM_InfernoTriggered",
+  "name": "Triggered Inferno",
+  "description": "Gain Daredevil Impulse. When you reach S Style, automatically use Inferno Trigger.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/madscientist_small.png"
+ },
+ {
+  "id": "1086",
+  "apiName": "ARAM_TrueshotProdigy",
+  "name": "Trueshot Prodigy",
+  "description": "When you damage someone from over X units away, fire a Trueshot Barrage, dealing X magic damage. Xs cooldown.\nTotal Damage Dealt to Champion: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "ability-haste"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/trueshotprodigy_small.png"
+ },
+ {
+  "id": "1107",
+  "apiName": "ARAM_TwiceThrice",
+  "name": "Twice Thrice",
+  "description": "Every X attacks, your effects trigger a second time.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/twicethrice_small.png"
+ },
+ {
+  "id": "1087",
+  "apiName": "ARAM_Typhoon",
+  "name": "Typhoon",
+  "description": "Your Attacks shoot a missile at an additional target, dealing reduced damage and applying effects.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/typhoon_small.png"
+ },
+ {
+  "id": "1088",
+  "apiName": "ARAM_UltimateRevolution",
+  "name": "Ultimate Revolution",
+  "description": "Refresh your Ultimate after casting it (X seconds Cooldown or reset on death).",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "ultimate"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/ultimaterevolution_small.png"
+ },
+ {
+  "id": "1112",
+  "apiName": "ARAM_UltimateUnstoppable",
+  "name": "Ultimate Unstoppable",
+  "description": "After using your Ultimate, you become immune to crowd control for X seconds. (X second Cooldown).",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "ultimate"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/ultimateunstoppable_small.png"
+ },
+ {
+  "id": "1320",
+  "apiName": "ARAM_Upgrade_Collector",
+  "name": "Upgrade Collector",
+  "description": "Executing enemies with The Collector's Passive increases its execute threshold and grants bonus Gold.\nGain 250 Gold.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "economy",
+   "execute"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradecollector_small.png"
+ },
+ {
+  "id": "1317",
+  "apiName": "ARAM_Upgrade_Cutlass",
+  "name": "Upgrade Cutlass",
+  "description": "Reduce Spectral Cutlass and Lifeline's Cooldown to X seconds. When active, gain X% damage amplification.\nGain 250 Gold.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradecutlass_small.png"
+ },
+ {
+  "id": "1338",
+  "apiName": "ARAM_Upgrade_Hubris",
+  "name": "Upgrade Hubris",
+  "description": "On Takedown, Hubris heals you and grants Movement Speed, scaling with your Eminence stacks.\nGain + 250 Gold.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "move-speed",
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradehubris_small.png"
+ },
+ {
+  "id": "1319",
+  "apiName": "ARAM_Upgrade_Immolate",
+  "name": "Upgrade Immolate",
+  "description": "Hollow Radiance and Sunfire Aegis grant X Gold per target affected with Immolate. Gain 250 Gold.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradeimmolate_small.png"
+ },
+ {
+  "id": "1336",
+  "apiName": "ARAM_Upgrade_IE",
+  "name": "Upgrade Infinity Edge",
+  "description": "Gain 500 Gold.\nHaving Infinity Edge allows your Critical Strike Chance to grant random Critical Strike Damage each Attack.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "crit",
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradeie_small.png"
+ },
+ {
+  "id": "1996",
+  "apiName": "ARAM_Upgrade_Sheen",
+  "name": "Upgrade Sheen",
+  "description": "Your Spellblade effects deal additional damage and heal you for a percent of the target's health. Additionally, gain 250 Gold.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "health",
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradesheen_small.png"
+ },
+ {
+  "id": "1318",
+  "apiName": "ARAM_Upgrade_ZH",
+  "name": "Upgrade Zhonya's",
+  "description": "Reduce Zhonya's Hourglass Cooldown to X seconds. You can now move and gain Movement Speed when in Zhonya's Hourglass, Seeker's Armguard, or Wooglet's Witchcap stasis.\nGain 250 Gold.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "move-speed",
+   "economy"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradezh_small.png"
+ },
+ {
+  "id": "1154",
+  "apiName": "ARAM_Quest_UrfsChampion",
+  "name": "Urf's Champion",
+  "description": "QUEST: Score X takedowns.\nREWARD: Golden Spatula",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "quest"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/quest_urfschampion_small.png"
+ },
+ {
+  "id": "2002",
+  "apiName": "ARAM_VoidRift",
+  "name": "Void Rift",
+  "description": "Damaging enemies with Abilities creates a Void scar. If there is another Void scar nearby, both are consumed to create a rift between them, dealing magic damage and Slowing enemies inside.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "magic-damage",
+   "abilities",
+   "crowd-control"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/voidrift_small.png"
+ },
+ {
+  "id": "1092",
+  "apiName": "ARAM_Vulnerability",
+  "name": "Vulnerability",
+  "description": "Your Item and damage over time effects can Critically Strike for X% extra damage.\nGain X% Crit chance.\nDamage Dealt: X",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "crit",
+   "damage-over-time"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/vulnerability_small.png"
+ },
+ {
+  "id": "1005",
+  "apiName": "ARAM_WeeWooWeeWoo",
+  "name": "Wee Woo Wee Woo",
+  "description": "",
+  "descriptionSource": "missing",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/weewooweewoo_small.png"
+ },
+ {
+  "id": "2008",
+  "apiName": "ARAM_WeightedPopoffs",
+  "name": "Weighted Popoffs",
+  "description": "Striking enemies with Abilities grants you stacks of Popoff, reducing your non-Ultimate Ability Cooldowns.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": false,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "ultimate"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/weightedpopoffs_small.png"
+ },
+ {
+  "id": "1095",
+  "apiName": "ARAM_WindspeakersBlessing",
+  "name": "Windspeaker's Blessing",
+  "description": "Your Healing and Shielding also increases the target's Armor and Magic Resist for 3 seconds.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [
+   "healing",
+   "shielding",
+   "resistances"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/windspeakersblessing_small.png"
+ },
+ {
+  "id": "1097",
+  "apiName": "ARAM_WitchfulThinking",
+  "name": "Witchful Thinking",
+  "description": "Gain X Ability Power.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-power",
+   "abilities"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/witchfulthinking_small.png"
+ },
+ {
+  "id": "1098",
+  "apiName": "ARAM_WithHaste",
+  "name": "With Haste",
+  "description": "Gain Move Speed equal to X% of your Ability Haste.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": true,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [
+   "ability-haste",
+   "abilities",
+   "move-speed"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/withhaste_small.png"
+ },
+ {
+  "id": "1156",
+  "apiName": "ARAM_Quest_WoogletsWitchcap",
+  "name": "Wooglet's Witchcap",
+  "description": "Immediate: Gain Needlessly Large Rod.\nRequirement: Possess Rabadon's Deathcap and Zhonya's Hourglass.\nReward: Gain Wooglet's Witchcap.",
+  "descriptionSource": "arena-shared",
+  "unresolvedValues": false,
+  "tier": "prismatic",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/cherry/augments/icons/quest_woogletswitchcap_small.png"
+ },
+ {
+  "id": "2089",
+  "apiName": "ARAM_YowchMyCoins",
+  "name": "Yowch, My Coins!",
+  "description": "",
+  "descriptionSource": "missing",
+  "unresolvedValues": false,
+  "tier": "gold",
+  "patch": "16.22.1",
+  "tags": [],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/youchmycoins_small.png"
+ },
+ {
+  "id": "2009",
+  "apiName": "ARAM_Zealot",
+  "name": "Zealot",
+  "description": "Gain X Critical Strike Chance and X Attack Speed.",
+  "descriptionSource": "mayhem",
+  "unresolvedValues": true,
+  "tier": "silver",
+  "patch": "16.22.1",
+  "tags": [
+   "attack-speed",
+   "crit"
+  ],
+  "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/zealot_small.png"
+ }
+]

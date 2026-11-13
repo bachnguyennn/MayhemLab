@@ -1,0 +1,160 @@
+{
+ "schemaVersion": 1,
+ "dataDragonVersion": "16.22.1",
+ "patch": "26.22",
+ "patchNote": "Display patch 26.22 corresponds to Data Dragon 16.22.1 (Data Dragon major = season − 10).",
+ "communityDragonPatch": "latest",
+ "communityDragonContentVersion": "16.22.8348910+branch.releases-16-22.content.release",
+ "generatedAt": "2026-11-13T06:35:50.608Z",
+ "counts": {
+  "champions": 173,
+  "items": 181,
+  "augments": 170
+ },
+ "quality": {
+  "missingDescriptions": [
+   "Multishot",
+   "Poro Blaster",
+   "Quickstep",
+   "Cheating",
+   "Wee Woo Wee Woo",
+   "Yowch, My Coins!"
+  ],
+  "arenaSharedDescriptions": [
+   "ADAPt",
+   "All For You",
+   "Apex Inventor",
+   "Back To Basics",
+   "From Downtown",
+   "Blunt Force",
+   "Buff Buddies",
+   "Can't Touch This",
+   "Celestial Body",
+   "Cerberus",
+   "Courage of the Colossus",
+   "Dashing",
+   "Deft",
+   "Erosion",
+   "Eureka",
+   "Feel the Burn",
+   "Fey Magic",
+   "First-Aid Kit",
+   "Goliath",
+   "Goredrink",
+   "Heavy Hitter",
+   "Homeguard",
+   "Infernal Soul",
+   "It's Critical",
+   "Leg Day",
+   "Lightning Strikes",
+   "Mind to Matter",
+   "Minionmancer",
+   "???",
+   "Mountain Soul",
+   "Mystic Punch",
+   "Omni Soul",
+   "Overflow",
+   "Pandora's Box",
+   "Wooglet's Witchcap",
+   "Recursion",
+   "Restless Restoration",
+   "Scoped Weapons",
+   "Scopier Weapons",
+   "Scopiest Weapons",
+   "Sonic Boom",
+   "Pursuit of Haste",
+   "Stackosaurus Rex",
+   "Stats on Stats!",
+   "The Brutalizer",
+   "Thread the Needle",
+   "Transmute: Chaos",
+   "Transmute: Gold",
+   "Transmute: Prismatic",
+   "Twice Thrice",
+   "Ultimate Unstoppable",
+   "Windspeaker's Blessing",
+   "Witchful Thinking",
+   "With Haste",
+   "escAPADe"
+  ],
+  "unresolvedValues": 108,
+  "untagged": [
+   "Divine Intervention",
+   "DropBear",
+   "Flashy",
+   "Triggered Inferno",
+   "Omni Soul",
+   "Pandora's Box",
+   "Wooglet's Witchcap",
+   "Shrink Ray",
+   "Transmute: Chaos",
+   "Transmute: Prismatic",
+   "Twice Thrice",
+   "Typhoon"
+  ]
+ },
+ "sources": [
+  {
+   "id": "ddragon-versions",
+   "name": "Riot Data Dragon — version list",
+   "licence": "Riot Games static data; used under Riot's Legal Jibber Jabber policy",
+   "url": "https://ddragon.leagueoflegends.com/api/versions.json",
+   "retrievedAt": "2026-11-13T06:33:12.645Z",
+   "sha256": "d639f92fe4343d6ded98317291ee29501fef2b776e897370d3bde936940fde60",
+   "bytes": 5239
+  },
+  {
+   "id": "ddragon-champions",
+   "name": "Riot Data Dragon — championFull.json",
+   "licence": "Riot Games static data; used under Riot's Legal Jibber Jabber policy",
+   "url": "https://ddragon.leagueoflegends.com/cdn/16.22.1/data/en_US/championFull.json",
+   "retrievedAt": "2026-11-13T06:33:12.768Z",
+   "sha256": "c3a07eeae57e583263bcfd2c597e0b3a5cb735f6d5818865d58cd50d7cdaa282",
+   "bytes": 2239228
+  },
+  {
+   "id": "ddragon-items",
+   "name": "Riot Data Dragon — item.json",
+   "licence": "Riot Games static data; used under Riot's Legal Jibber Jabber policy",
+   "url": "https://ddragon.leagueoflegends.com/cdn/16.22.1/data/en_US/item.json",
+   "retrievedAt": "2026-11-13T06:33:12.807Z",
+   "sha256": "053784ef35d61e167934c2ab6d33ba574da462b2dfa6902d2c7539daca181a6c",
+   "bytes": 683365
+  },
+  {
+   "id": "cdragon-metadata",
+   "name": "CommunityDragon — content-metadata.json",
+   "licence": "Community-extracted Riot game files; no explicit licence stated (see docs/compliance)",
+   "url": "https://raw.communitydragon.org/latest/content-metadata.json",
+   "retrievedAt": "2026-11-13T06:35:11.018Z",
+   "sha256": "b7c2d8111064eb7a4ed719fb5d0a166dbf0799c2467e0fd7c266aaaa5f43ae18",
+   "bytes": 74
+  },
+  {
+   "id": "cdragon-augments",
+   "name": "CommunityDragon — cherry-augments.json (augment ids, names, rarities, icons)",
+   "licence": "Community-extracted Riot game files; no explicit licence stated (see docs/compliance)",
+   "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/cherry-augments.json",
+   "retrievedAt": "2026-11-13T06:35:30.377Z",
+   "sha256": "b59b66e71751276ad913fc8028bea9851a4e6f5c3ed44c7afc70422082c5af88",
+   "bytes": 140416
+  },
+  {
+   "id": "cdragon-stringtable",
+   "name": "CommunityDragon — lol.stringtable.json (augment description text)",
+   "licence": "Community-extracted Riot game files; no explicit licence stated (see docs/compliance)",
+   "url": "https://raw.communitydragon.org/latest/game/en_us/data/menu/en_us/lol.stringtable.json",
+   "retrievedAt": "2026-11-13T06:35:50.392Z",
+   "sha256": "7331a539c866b1f333ba97b1d6afe20b43d0ded7915921f48a759086c6be738c",
+   "bytes": 32595928
+  }
+ ],
+ "changelog": [
+  {
+   "from": null,
+   "to": "16.22.1",
+   "date": "2026-11-13",
+   "note": "Initial snapshot."
+  }
+ ]
+}

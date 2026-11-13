@@ -1,0 +1,5102 @@
+[
+ {
+  "id": "Aatrox",
+  "key": 266,
+  "name": "Aatrox",
+  "title": "the Darkin Blade",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter"
+  ],
+  "resource": "Blood Well",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 4,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aatrox.png"
+ },
+ {
+  "id": "Ahri",
+  "key": 103,
+  "name": "Ahri",
+  "title": "the Nine-Tailed Fox",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 3,
+   "defense": 4,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "mobility"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ahri.png"
+ },
+ {
+  "id": "Akali",
+  "key": 84,
+  "name": "Akali",
+  "title": "the Rogue Assassin",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin"
+  ],
+  "resource": "Energy",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 5,
+   "defense": 3,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "slows",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "execute"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Akali.png"
+ },
+ {
+  "id": "Akshan",
+  "key": 166,
+  "name": "Akshan",
+  "title": "the Rogue Sentinel",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 0,
+   "defense": 0,
+   "magic": 0
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "shielding",
+   "ally-support",
+   "stealth",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Akshan.png"
+ },
+ {
+  "id": "Alistar",
+  "key": 12,
+  "name": "Alistar",
+  "title": "the Minotaur",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 9,
+   "magic": 5
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Alistar.png"
+ },
+ {
+  "id": "Ambessa",
+  "key": 799,
+  "name": "Ambessa",
+  "title": "Matriarch of War",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Energy",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 2,
+   "magic": 0
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ambessa.png"
+ },
+ {
+  "id": "Amumu",
+  "key": 32,
+  "name": "Amumu",
+  "title": "the Sad Mummy",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 2,
+   "defense": 6,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Amumu.png"
+ },
+ {
+  "id": "Anivia",
+  "key": 34,
+  "name": "Anivia",
+  "title": "the Cryophoenix",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 600,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 4,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "damage-over-time",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Anivia.png"
+ },
+ {
+  "id": "Annie",
+  "key": 1,
+  "name": "Annie",
+  "title": "the Dark Child",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 625,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 3,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "damage-over-time",
+   "resets",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Annie.png"
+ },
+ {
+  "id": "Aphelios",
+  "key": 523,
+  "name": "Aphelios",
+  "title": "the Weapon of the Faithful",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 6,
+   "defense": 2,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aphelios.png"
+ },
+ {
+  "id": "Ashe",
+  "key": 22,
+  "name": "Ashe",
+  "title": "the Frost Archer",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 600,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 7,
+   "defense": 3,
+   "magic": 2
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "crit",
+   "hard-cc",
+   "slows",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ashe.png"
+ },
+ {
+  "id": "AurelionSol",
+  "key": 136,
+  "name": "Aurelion Sol",
+  "title": "The Star Forger",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 3,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "resets",
+   "summons",
+   "execute",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/AurelionSol.png"
+ },
+ {
+  "id": "Aurora",
+  "key": 893,
+  "name": "Aurora",
+  "title": "the Witch Between Worlds",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 3,
+   "defense": 4,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aurora.png"
+ },
+ {
+  "id": "Azir",
+  "key": 268,
+  "name": "Azir",
+  "title": "the Emperor of the Sands",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 6,
+   "defense": 3,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Azir.png"
+ },
+ {
+  "id": "Bard",
+  "key": 432,
+  "name": "Bard",
+  "title": "the Wandering Caretaker",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 4,
+   "defense": 4,
+   "magic": 5
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Bard.png"
+ },
+ {
+  "id": "Belveth",
+  "key": 200,
+  "name": "Bel'Veth",
+  "title": "the Empress of the Void",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter"
+  ],
+  "resource": "None",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 2,
+   "magic": 7
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "summons",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Belveth.png"
+ },
+ {
+  "id": "Blitzcrank",
+  "key": 53,
+  "name": "Blitzcrank",
+  "title": "the Great Steam Golem",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 8,
+   "magic": 5
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Blitzcrank.png"
+ },
+ {
+  "id": "Brand",
+  "key": 63,
+  "name": "Brand",
+  "title": "the Burning Vengeance",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 2,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "damage-over-time",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Brand.png"
+ },
+ {
+  "id": "Braum",
+  "key": 201,
+  "name": "Braum",
+  "title": "the Heart of the Freljord",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 9,
+   "magic": 4
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Braum.png"
+ },
+ {
+  "id": "Briar",
+  "key": 233,
+  "name": "Briar",
+  "title": "the Restrained Hunger",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Fury",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Briar.png"
+ },
+ {
+  "id": "Caitlyn",
+  "key": 51,
+  "name": "Caitlyn",
+  "title": "the Sheriff of Piltover",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 650,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 2,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "crit",
+   "hard-cc",
+   "slows",
+   "stealth",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Caitlyn.png"
+ },
+ {
+  "id": "Camille",
+  "key": 164,
+  "name": "Camille",
+  "title": "the Steel Shadow",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 6,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Camille.png"
+ },
+ {
+  "id": "Cassiopeia",
+  "key": 69,
+  "name": "Cassiopeia",
+  "title": "the Serpent's Embrace",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 3,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "damage-over-time"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Cassiopeia.png"
+ },
+ {
+  "id": "Chogath",
+  "key": 31,
+  "name": "Cho'Gath",
+  "title": "the Terror of the Void",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 7,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Chogath.png"
+ },
+ {
+  "id": "Corki",
+  "key": 42,
+  "name": "Corki",
+  "title": "the Daring Bombardier",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 3,
+   "magic": 6
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "damage-over-time",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Corki.png"
+ },
+ {
+  "id": "Darius",
+  "key": 122,
+  "name": "Darius",
+  "title": "the Hand of Noxus",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 5,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "resets",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Darius.png"
+ },
+ {
+  "id": "Diana",
+  "key": 131,
+  "name": "Diana",
+  "title": "Scorn of the Moon",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 6,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Diana.png"
+ },
+ {
+  "id": "DrMundo",
+  "key": 36,
+  "name": "Dr. Mundo",
+  "title": "the Madman of Zaun",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "resource": "None",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 5,
+   "defense": 7,
+   "magic": 6
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "slows",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/DrMundo.png"
+ },
+ {
+  "id": "Draven",
+  "key": 119,
+  "name": "Draven",
+  "title": "the Glorious Executioner",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 9,
+   "defense": 3,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "hard-cc",
+   "slows",
+   "resets",
+   "execute",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Draven.png"
+ },
+ {
+  "id": "Ekko",
+  "key": 245,
+  "name": "Ekko",
+  "title": "the Boy Who Shattered Time",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 5,
+   "defense": 3,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ekko.png"
+ },
+ {
+  "id": "Elise",
+  "key": 60,
+  "name": "Elise",
+  "title": "the Spider Queen",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 6,
+   "defense": 5,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Elise.png"
+ },
+ {
+  "id": "Evelynn",
+  "key": 28,
+  "name": "Evelynn",
+  "title": "Agony's Embrace",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 2,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Evelynn.png"
+ },
+ {
+  "id": "Ezreal",
+  "key": 81,
+  "name": "Ezreal",
+  "title": "the Prodigal Explorer",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 7,
+   "defense": 2,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "mobility",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ezreal.png"
+ },
+ {
+  "id": "Fiddlesticks",
+  "key": 9,
+  "name": "Fiddlesticks",
+  "title": "the Ancient Fear",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 480,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 3,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "execute"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fiddlesticks.png"
+ },
+ {
+  "id": "Fiora",
+  "key": 114,
+  "name": "Fiora",
+  "title": "the Grand Duelist",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 10,
+   "defense": 4,
+   "magic": 2
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "crit",
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fiora.png"
+ },
+ {
+  "id": "Fizz",
+  "key": 105,
+  "name": "Fizz",
+  "title": "the Tidal Trickster",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 4,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "damage-over-time",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fizz.png"
+ },
+ {
+  "id": "Galio",
+  "key": 3,
+  "name": "Galio",
+  "title": "the Colossus",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 1,
+   "defense": 10,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Galio.png"
+ },
+ {
+  "id": "Gangplank",
+  "key": 41,
+  "name": "Gangplank",
+  "title": "the Saltwater Scourge",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 6,
+   "magic": 4
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "healing",
+   "ally-support",
+   "slows",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gangplank.png"
+ },
+ {
+  "id": "Garen",
+  "key": 86,
+  "name": "Garen",
+  "title": "The Might of Demacia",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "None",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 7,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "slows",
+   "health-scaling",
+   "execute",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Garen.png"
+ },
+ {
+  "id": "Gnar",
+  "key": 150,
+  "name": "Gnar",
+  "title": "the Missing Link",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Rage",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 5,
+   "magic": 5
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gnar.png"
+ },
+ {
+  "id": "Gragas",
+  "key": 79,
+  "name": "Gragas",
+  "title": "the Rabble Rouser",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 7,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gragas.png"
+ },
+ {
+  "id": "Graves",
+  "key": 104,
+  "name": "Graves",
+  "title": "the Outlaw",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 425,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Graves.png"
+ },
+ {
+  "id": "Gwen",
+  "key": 887,
+  "name": "Gwen",
+  "title": "The Hallowed Seamstress",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 4,
+   "magic": 5
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "healing",
+   "slows",
+   "mobility",
+   "resets",
+   "summons",
+   "execute",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gwen.png"
+ },
+ {
+  "id": "Hecarim",
+  "key": 120,
+  "name": "Hecarim",
+  "title": "the Shadow of War",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 6,
+   "magic": 4
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "summons",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Hecarim.png"
+ },
+ {
+  "id": "Heimerdinger",
+  "key": 74,
+  "name": "Heimerdinger",
+  "title": "the Revered Inventor",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 6,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Heimerdinger.png"
+ },
+ {
+  "id": "Hwei",
+  "key": 910,
+  "name": "Hwei",
+  "title": "the Visionary",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 7,
+   "defense": 1,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Hwei.png"
+ },
+ {
+  "id": "Illaoi",
+  "key": 420,
+  "name": "Illaoi",
+  "title": "the Kraken Priestess",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 6,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Illaoi.png"
+ },
+ {
+  "id": "Irelia",
+  "key": 39,
+  "name": "Irelia",
+  "title": "the Blade Dancer",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 200,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 4,
+   "magic": 5
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Irelia.png"
+ },
+ {
+  "id": "Ivern",
+  "key": 427,
+  "name": "Ivern",
+  "title": "the Green Father",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 475,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 3,
+   "defense": 5,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ivern.png"
+ },
+ {
+  "id": "Janna",
+  "key": 40,
+  "name": "Janna",
+  "title": "the Storm's Fury",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 3,
+   "defense": 5,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "resets",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Janna.png"
+ },
+ {
+  "id": "JarvanIV",
+  "key": 59,
+  "name": "Jarvan IV",
+  "title": "the Exemplar of Demacia",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 8,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/JarvanIV.png"
+ },
+ {
+  "id": "Jax",
+  "key": 24,
+  "name": "Jax",
+  "title": "Grandmaster at Arms",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 5,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "hard-cc",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jax.png"
+ },
+ {
+  "id": "Jayce",
+  "key": 126,
+  "name": "Jayce",
+  "title": "the Defender of Tomorrow",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 4,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jayce.png"
+ },
+ {
+  "id": "Jhin",
+  "key": 202,
+  "name": "Jhin",
+  "title": "the Virtuoso",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 10,
+   "defense": 2,
+   "magic": 6
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "crit",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "stealth",
+   "health-scaling",
+   "execute",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jhin.png"
+ },
+ {
+  "id": "Jinx",
+  "key": 222,
+  "name": "Jinx",
+  "title": "the Loose Cannon",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 9,
+   "defense": 2,
+   "magic": 4
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jinx.png"
+ },
+ {
+  "id": "KSante",
+  "key": 897,
+  "name": "K'Sante",
+  "title": "the Pride of Nazumah",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 8,
+   "magic": 7
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/KSante.png"
+ },
+ {
+  "id": "Kaisa",
+  "key": 145,
+  "name": "Kai'Sa",
+  "title": "Daughter of the Void",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "shielding",
+   "mobility",
+   "stealth",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kaisa.png"
+ },
+ {
+  "id": "Kalista",
+  "key": 429,
+  "name": "Kalista",
+  "title": "the Spear of Vengeance",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 2,
+   "magic": 4
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kalista.png"
+ },
+ {
+  "id": "Karma",
+  "key": 43,
+  "name": "Karma",
+  "title": "the Enlightened One",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 7,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Karma.png"
+ },
+ {
+  "id": "Karthus",
+  "key": 30,
+  "name": "Karthus",
+  "title": "the Deathsinger",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 450,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 2,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "slows",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Karthus.png"
+ },
+ {
+  "id": "Kassadin",
+  "key": 38,
+  "name": "Kassadin",
+  "title": "the Void Walker",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 5,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "slows",
+   "mobility",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kassadin.png"
+ },
+ {
+  "id": "Katarina",
+  "key": 55,
+  "name": "Katarina",
+  "title": "the Sinister Blade",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "None",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 3,
+   "magic": 9
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "mobility"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Katarina.png"
+ },
+ {
+  "id": "Kayle",
+  "key": 10,
+  "name": "Kayle",
+  "title": "the Righteous",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 6,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "slows",
+   "health-scaling",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kayle.png"
+ },
+ {
+  "id": "Kayn",
+  "key": 141,
+  "name": "Kayn",
+  "title": "the Shadow Reaper",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 10,
+   "defense": 6,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kayn.png"
+ },
+ {
+  "id": "Kennen",
+  "key": 85,
+  "name": "Kennen",
+  "title": "the Heart of the Tempest",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Energy",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 6,
+   "defense": 4,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "crit",
+   "hard-cc",
+   "resets",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kennen.png"
+ },
+ {
+  "id": "Khazix",
+  "key": 121,
+  "name": "Kha'Zix",
+  "title": "the Voidreaver",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 4,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Khazix.png"
+ },
+ {
+  "id": "Kindred",
+  "key": 203,
+  "name": "Kindred",
+  "title": "The Eternal Hunters",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 2,
+   "magic": 2
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kindred.png"
+ },
+ {
+  "id": "Kled",
+  "key": 240,
+  "name": "Kled",
+  "title": "the Cantankerous Cavalier",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter"
+  ],
+  "resource": "Courage",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 2,
+   "magic": 2
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kled.png"
+ },
+ {
+  "id": "KogMaw",
+  "key": 96,
+  "name": "Kog'Maw",
+  "title": "the Mouth of the Abyss",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 2,
+   "magic": 5
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "healing",
+   "slows",
+   "stealth",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/KogMaw.png"
+ },
+ {
+  "id": "Leblanc",
+  "key": 7,
+  "name": "LeBlanc",
+  "title": "the Deceiver",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 4,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "mobility",
+   "stealth",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Leblanc.png"
+ },
+ {
+  "id": "LeeSin",
+  "key": 64,
+  "name": "Lee Sin",
+  "title": "the Blind Monk",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Energy",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/LeeSin.png"
+ },
+ {
+  "id": "Leona",
+  "key": 89,
+  "name": "Leona",
+  "title": "the Radiant Dawn",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 8,
+   "magic": 3
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Leona.png"
+ },
+ {
+  "id": "Lillia",
+  "key": 876,
+  "name": "Lillia",
+  "title": "the Bashful Bloom",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 325,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 0,
+   "defense": 2,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lillia.png"
+ },
+ {
+  "id": "Lissandra",
+  "key": 127,
+  "name": "Lissandra",
+  "title": "the Ice Witch",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 5,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lissandra.png"
+ },
+ {
+  "id": "Locke",
+  "key": 805,
+  "name": "Locke",
+  "title": "the Ashen Exorcist",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 4,
+   "magic": 2
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "resets",
+   "execute",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Locke.png"
+ },
+ {
+  "id": "Lucian",
+  "key": 236,
+  "name": "Lucian",
+  "title": "the Purifier",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "ally-support",
+   "mobility",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lucian.png"
+ },
+ {
+  "id": "Lulu",
+  "key": 117,
+  "name": "Lulu",
+  "title": "the Fae Sorceress",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 4,
+   "defense": 5,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "stealth",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lulu.png"
+ },
+ {
+  "id": "Lux",
+  "key": 99,
+  "name": "Lux",
+  "title": "the Lady of Luminosity",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 4,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lux.png"
+ },
+ {
+  "id": "Malphite",
+  "key": 54,
+  "name": "Malphite",
+  "title": "Shard of the Monolith",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 5,
+   "defense": 9,
+   "magic": 7
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Malphite.png"
+ },
+ {
+  "id": "Malzahar",
+  "key": 90,
+  "name": "Malzahar",
+  "title": "the Prophet of the Void",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 2,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "health-scaling",
+   "damage-over-time",
+   "summons",
+   "execute",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Malzahar.png"
+ },
+ {
+  "id": "Maokai",
+  "key": 57,
+  "name": "Maokai",
+  "title": "the Twisted Treant",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 8,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Maokai.png"
+ },
+ {
+  "id": "MasterYi",
+  "key": 11,
+  "name": "Master Yi",
+  "title": "the Wuju Bladesman",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 10,
+   "defense": 4,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "crit",
+   "healing",
+   "ally-support",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "resets",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MasterYi.png"
+ },
+ {
+  "id": "Mel",
+  "key": 800,
+  "name": "Mel",
+  "title": "the Soul's Reflection",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 4,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "damage-over-time",
+   "resets",
+   "execute",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Mel.png"
+ },
+ {
+  "id": "Milio",
+  "key": 902,
+  "name": "Milio",
+  "title": "The Gentle Flame",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 4,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "damage-over-time",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Milio.png"
+ },
+ {
+  "id": "MissFortune",
+  "key": 21,
+  "name": "Miss Fortune",
+  "title": "the Bounty Hunter",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 2,
+   "magic": 5
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "crit",
+   "slows",
+   "damage-over-time",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MissFortune.png"
+ },
+ {
+  "id": "Mordekaiser",
+  "key": 82,
+  "name": "Mordekaiser",
+  "title": "the Iron Revenant",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Mage"
+  ],
+  "resource": "Shield",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 6,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "shielding",
+   "hard-cc"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Mordekaiser.png"
+ },
+ {
+  "id": "Morgana",
+  "key": 25,
+  "name": "Morgana",
+  "title": "the Fallen",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 450,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 6,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Morgana.png"
+ },
+ {
+  "id": "Naafiri",
+  "key": 950,
+  "name": "Naafiri",
+  "title": "the Hound of a Hundred Bites",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 5,
+   "magic": 0
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "healing",
+   "shielding",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Naafiri.png"
+ },
+ {
+  "id": "Nami",
+  "key": 267,
+  "name": "Nami",
+  "title": "the Tidecaller",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 4,
+   "defense": 3,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nami.png"
+ },
+ {
+  "id": "Nasus",
+  "key": 75,
+  "name": "Nasus",
+  "title": "the Curator of the Sands",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 5,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "slows",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nasus.png"
+ },
+ {
+  "id": "Nautilus",
+  "key": 111,
+  "name": "Nautilus",
+  "title": "the Titan of the Depths",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 6,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "shielding",
+   "hard-cc",
+   "slows",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nautilus.png"
+ },
+ {
+  "id": "Neeko",
+  "key": 518,
+  "name": "Neeko",
+  "title": "the Curious Chameleon",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 1,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "hard-cc",
+   "mobility",
+   "stealth",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Neeko.png"
+ },
+ {
+  "id": "Nidalee",
+  "key": 76,
+  "name": "Nidalee",
+  "title": "the Bestial Huntress",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 5,
+   "defense": 4,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "stealth",
+   "health-scaling",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nidalee.png"
+ },
+ {
+  "id": "Nilah",
+  "key": 895,
+  "name": "Nilah",
+  "title": "the Joy Unbound",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 225,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 4,
+   "magic": 4
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "mobility"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nilah.png"
+ },
+ {
+  "id": "Nocturne",
+  "key": 56,
+  "name": "Nocturne",
+  "title": "the Eternal Nightmare",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 5,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nocturne.png"
+ },
+ {
+  "id": "Nunu",
+  "key": 20,
+  "name": "Nunu & Willump",
+  "title": "the Boy and His Yeti",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 6,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "healing",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nunu.png"
+ },
+ {
+  "id": "Olaf",
+  "key": 2,
+  "name": "Olaf",
+  "title": "the Berserker",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "shielding",
+   "ally-support",
+   "slows",
+   "health-scaling",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Olaf.png"
+ },
+ {
+  "id": "Orianna",
+  "key": 61,
+  "name": "Orianna",
+  "title": "the Lady of Clockwork",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 4,
+   "defense": 3,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "shielding",
+   "ally-support",
+   "slows"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Orianna.png"
+ },
+ {
+  "id": "Ornn",
+  "key": 516,
+  "name": "Ornn",
+  "title": "The Fire below the Mountain",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 5,
+   "defense": 9,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ornn.png"
+ },
+ {
+  "id": "Pantheon",
+  "key": 80,
+  "name": "Pantheon",
+  "title": "the Unbreakable Spear",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 4,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "resets",
+   "execute",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Pantheon.png"
+ },
+ {
+  "id": "Poppy",
+  "key": 78,
+  "name": "Poppy",
+  "title": "Keeper of the Hammer",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 7,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Poppy.png"
+ },
+ {
+  "id": "Pyke",
+  "key": 555,
+  "name": "Pyke",
+  "title": "the Bloodharbor Ripper",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 3,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "resets",
+   "execute"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Pyke.png"
+ },
+ {
+  "id": "Qiyana",
+  "key": 246,
+  "name": "Qiyana",
+  "title": "Empress of the Elements",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 0,
+   "defense": 2,
+   "magic": 4
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Qiyana.png"
+ },
+ {
+  "id": "Quinn",
+  "key": 133,
+  "name": "Quinn",
+  "title": "Demacia's Wings",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 9,
+   "defense": 4,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "slows",
+   "mobility",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Quinn.png"
+ },
+ {
+  "id": "Rakan",
+  "key": 497,
+  "name": "Rakan",
+  "title": "The Charmer",
+  "patch": "16.22.1",
+  "roles": [
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 300,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 4,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "mobility"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rakan.png"
+ },
+ {
+  "id": "Rammus",
+  "key": 33,
+  "name": "Rammus",
+  "title": "the Armordillo",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 10,
+   "magic": 5
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rammus.png"
+ },
+ {
+  "id": "RekSai",
+  "key": 421,
+  "name": "Rek'Sai",
+  "title": "the Void Burrower",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Rage",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "mobility",
+   "health-scaling",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/RekSai.png"
+ },
+ {
+  "id": "Rell",
+  "key": 526,
+  "name": "Rell",
+  "title": "the Iron Maiden",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 0,
+   "defense": 0,
+   "magic": 0
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rell.png"
+ },
+ {
+  "id": "Renata",
+  "key": 888,
+  "name": "Renata Glasc",
+  "title": "the Chem-Baroness",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 6,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Renata.png"
+ },
+ {
+  "id": "Renekton",
+  "key": 58,
+  "name": "Renekton",
+  "title": "the Butcher of the Sands",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Fury",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "hard-cc",
+   "mobility",
+   "health-scaling",
+   "damage-over-time"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Renekton.png"
+ },
+ {
+  "id": "Rengar",
+  "key": 107,
+  "name": "Rengar",
+  "title": "the Pridestalker",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin",
+   "Fighter"
+  ],
+  "resource": "Ferocity",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 4,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rengar.png"
+ },
+ {
+  "id": "Riven",
+  "key": 92,
+  "name": "Riven",
+  "title": "the Exile",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "None",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "shielding",
+   "hard-cc",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Riven.png"
+ },
+ {
+  "id": "Rumble",
+  "key": 68,
+  "name": "Rumble",
+  "title": "the Mechanized Menace",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Mage"
+  ],
+  "resource": "Heat",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 6,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rumble.png"
+ },
+ {
+  "id": "Ryze",
+  "key": 13,
+  "name": "Ryze",
+  "title": "the Rune Mage",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 2,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "mobility",
+   "mana-scaling",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ryze.png"
+ },
+ {
+  "id": "Samira",
+  "key": 360,
+  "name": "Samira",
+  "title": "the Desert Rose",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "crit",
+   "hard-cc",
+   "mobility",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Samira.png"
+ },
+ {
+  "id": "Sejuani",
+  "key": 113,
+  "name": "Sejuani",
+  "title": "Fury of the North",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 5,
+   "defense": 7,
+   "magic": 6
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "hard-cc",
+   "slows",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sejuani.png"
+ },
+ {
+  "id": "Senna",
+  "key": 235,
+  "name": "Senna",
+  "title": "the Redeemer",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 600,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 7,
+   "defense": 2,
+   "magic": 6
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "crit",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "stealth",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Senna.png"
+ },
+ {
+  "id": "Seraphine",
+  "key": 147,
+  "name": "Seraphine",
+  "title": "the Starry-Eyed Songstress",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 0,
+   "defense": 0,
+   "magic": 0
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "execute",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Seraphine.png"
+ },
+ {
+  "id": "Sett",
+  "key": 875,
+  "name": "Sett",
+  "title": "the Boss",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Grit",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "shielding",
+   "hard-cc",
+   "slows",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sett.png"
+ },
+ {
+  "id": "Shaco",
+  "key": 35,
+  "name": "Shaco",
+  "title": "the Demon Jester",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 4,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "crit",
+   "empowered-attacks",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "damage-over-time",
+   "summons",
+   "execute"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shaco.png"
+ },
+ {
+  "id": "Shen",
+  "key": 98,
+  "name": "Shen",
+  "title": "the Eye of Twilight",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank"
+  ],
+  "resource": "Energy",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 9,
+   "magic": 3
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shen.png"
+ },
+ {
+  "id": "Shyvana",
+  "key": 102,
+  "name": "Shyvana",
+  "title": "the Half-Dragon",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Fury",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 6,
+   "magic": 3
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shyvana.png"
+ },
+ {
+  "id": "Singed",
+  "key": 27,
+  "name": "Singed",
+  "title": "the Mad Chemist",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 8,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Singed.png"
+ },
+ {
+  "id": "Sion",
+  "key": 14,
+  "name": "Sion",
+  "title": "The Undead Juggernaut",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 5,
+   "defense": 9,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "healing",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sion.png"
+ },
+ {
+  "id": "Sivir",
+  "key": 15,
+  "name": "Sivir",
+  "title": "the Battle Mistress",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 9,
+   "defense": 3,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "crit",
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "resets",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sivir.png"
+ },
+ {
+  "id": "Skarner",
+  "key": 72,
+  "name": "Skarner",
+  "title": "the Primordial Sovereign",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 8,
+   "magic": 5
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "attack-speed",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Skarner.png"
+ },
+ {
+  "id": "Smolder",
+  "key": 901,
+  "name": "Smolder",
+  "title": "the Fiery Fledgling",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 2,
+   "magic": 5
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "healing",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Smolder.png"
+ },
+ {
+  "id": "Sona",
+  "key": 37,
+  "name": "Sona",
+  "title": "Maven of the Strings",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 5,
+   "defense": 2,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sona.png"
+ },
+ {
+  "id": "Soraka",
+  "key": 16,
+  "name": "Soraka",
+  "title": "the Starchild",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 5,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Soraka.png"
+ },
+ {
+  "id": "Swain",
+  "key": 50,
+  "name": "Swain",
+  "title": "the Noxian Grand General",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 6,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Swain.png"
+ },
+ {
+  "id": "Sylas",
+  "key": 517,
+  "name": "Sylas",
+  "title": "the Unshackled",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 4,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sylas.png"
+ },
+ {
+  "id": "Syndra",
+  "key": 134,
+  "name": "Syndra",
+  "title": "the Dark Sovereign",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 3,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "execute"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Syndra.png"
+ },
+ {
+  "id": "TahmKench",
+  "key": 223,
+  "name": "Tahm Kench",
+  "title": "The River King",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 9,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/TahmKench.png"
+ },
+ {
+  "id": "Taliyah",
+  "key": 163,
+  "name": "Taliyah",
+  "title": "the Stoneweaver",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 7,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "slows",
+   "mobility",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Taliyah.png"
+ },
+ {
+  "id": "Talon",
+  "key": 91,
+  "name": "Talon",
+  "title": "the Blade's Shadow",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 3,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "crit",
+   "healing",
+   "slows",
+   "mobility",
+   "stealth",
+   "damage-over-time",
+   "resets",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Talon.png"
+ },
+ {
+  "id": "Taric",
+  "key": 44,
+  "name": "Taric",
+  "title": "the Shield of Valoran",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 4,
+   "defense": 8,
+   "magic": 5
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Taric.png"
+ },
+ {
+  "id": "Teemo",
+  "key": 17,
+  "name": "Teemo",
+  "title": "the Swift Scout",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 500,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 5,
+   "defense": 3,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "slows",
+   "stealth",
+   "damage-over-time",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Teemo.png"
+ },
+ {
+  "id": "Thresh",
+  "key": 412,
+  "name": "Thresh",
+  "title": "the Chain Warden",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 450,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 5,
+   "defense": 6,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Thresh.png"
+ },
+ {
+  "id": "Tristana",
+  "key": 18,
+  "name": "Tristana",
+  "title": "the Yordle Gunner",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 9,
+   "defense": 3,
+   "magic": 5
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "attack-speed",
+   "hard-cc",
+   "slows",
+   "summons",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Tristana.png"
+ },
+ {
+  "id": "Trundle",
+  "key": 48,
+  "name": "Trundle",
+  "title": "the Troll King",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 6,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "slows",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Trundle.png"
+ },
+ {
+  "id": "Tryndamere",
+  "key": 23,
+  "name": "Tryndamere",
+  "title": "the Barbarian King",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Fury",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 10,
+   "defense": 5,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "crit",
+   "healing",
+   "slows",
+   "health-scaling",
+   "resets"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Tryndamere.png"
+ },
+ {
+  "id": "TwistedFate",
+  "key": 4,
+  "name": "Twisted Fate",
+  "title": "the Card Master",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 6,
+   "defense": 2,
+   "magic": 6
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/TwistedFate.png"
+ },
+ {
+  "id": "Twitch",
+  "key": 29,
+  "name": "Twitch",
+  "title": "the Plague Rat",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 9,
+   "defense": 2,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "slows",
+   "stealth",
+   "damage-over-time",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Twitch.png"
+ },
+ {
+  "id": "Udyr",
+  "key": 77,
+  "name": "Udyr",
+  "title": "the Spirit Walker",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 7,
+   "magic": 4
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "damage-over-time"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Udyr.png"
+ },
+ {
+  "id": "Urgot",
+  "key": 6,
+  "name": "Urgot",
+  "title": "the Dreadnought",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 350,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "execute",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Urgot.png"
+ },
+ {
+  "id": "Varus",
+  "key": 110,
+  "name": "Varus",
+  "title": "the Arrow of Retribution",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 575,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 7,
+   "defense": 3,
+   "magic": 4
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "slows",
+   "health-scaling",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Varus.png"
+ },
+ {
+  "id": "Vayne",
+  "key": 67,
+  "name": "Vayne",
+  "title": "the Night Hunter",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 10,
+   "defense": 1,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "hard-cc",
+   "stealth",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vayne.png"
+ },
+ {
+  "id": "Veigar",
+  "key": 45,
+  "name": "Veigar",
+  "title": "the Tiny Master of Evil",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 2,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "hard-cc",
+   "health-scaling",
+   "summons",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Veigar.png"
+ },
+ {
+  "id": "Velkoz",
+  "key": 161,
+  "name": "Vel'Koz",
+  "title": "the Eye of the Void",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 2,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "hard-cc",
+   "slows",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Velkoz.png"
+ },
+ {
+  "id": "Vex",
+  "key": 711,
+  "name": "Vex",
+  "title": "the Gloomist",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 0,
+   "defense": 0,
+   "magic": 0
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "resets",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vex.png"
+ },
+ {
+  "id": "Vi",
+  "key": 254,
+  "name": "Vi",
+  "title": "the Piltover Enforcer",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "shielding",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vi.png"
+ },
+ {
+  "id": "Viego",
+  "key": 234,
+  "name": "Viego",
+  "title": "The Ruined King",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "None",
+  "attackRange": 200,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 4,
+   "magic": 2
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "execute"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Viego.png"
+ },
+ {
+  "id": "Viktor",
+  "key": 112,
+  "name": "Viktor",
+  "title": "the Herald of the Arcane",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 4,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "damage-over-time"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Viktor.png"
+ },
+ {
+  "id": "Vladimir",
+  "key": 8,
+  "name": "Vladimir",
+  "title": "the Crimson Reaper",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Fighter"
+  ],
+  "resource": "Crimson Rush",
+  "attackRange": 450,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 6,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "healing",
+   "slows",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vladimir.png"
+ },
+ {
+  "id": "Volibear",
+  "key": 106,
+  "name": "Volibear",
+  "title": "the Relentless Storm",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 150,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 7,
+   "defense": 7,
+   "magic": 4
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Volibear.png"
+ },
+ {
+  "id": "Warwick",
+  "key": 19,
+  "name": "Warwick",
+  "title": "the Uncaged Wrath of Zaun",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "mobility",
+   "health-scaling",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Warwick.png"
+ },
+ {
+  "id": "MonkeyKing",
+  "key": 62,
+  "name": "Wukong",
+  "title": "the Monkey King",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 2
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "hard-cc",
+   "mobility",
+   "stealth",
+   "health-scaling",
+   "summons",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MonkeyKing.png"
+ },
+ {
+  "id": "Xayah",
+  "key": 498,
+  "name": "Xayah",
+  "title": "the Rebel",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 10,
+   "defense": 6,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "empowered-attacks",
+   "hard-cc",
+   "mobility",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Xayah.png"
+ },
+ {
+  "id": "Xerath",
+  "key": 101,
+  "name": "Xerath",
+  "title": "the Magus Ascendant",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 525,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 3,
+   "magic": 10
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "hard-cc",
+   "slows",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Xerath.png"
+ },
+ {
+  "id": "XinZhao",
+  "key": 5,
+  "name": "Xin Zhao",
+  "title": "the Seneschal of Demacia",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 6,
+   "magic": 3
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "attack-speed",
+   "healing",
+   "hard-cc",
+   "slows",
+   "stealth",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/XinZhao.png"
+ },
+ {
+  "id": "Yasuo",
+  "key": 157,
+  "name": "Yasuo",
+  "title": "the Unforgiven",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Flow",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 4,
+   "magic": 4
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "crit",
+   "shielding",
+   "ally-support",
+   "hard-cc",
+   "mobility",
+   "resets",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yasuo.png"
+ },
+ {
+  "id": "Yone",
+  "key": 777,
+  "name": "Yone",
+  "title": "the Unforgotten",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "resource": "Flow",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 4,
+   "magic": 4
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "crit",
+   "shielding",
+   "hard-cc",
+   "mobility",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yone.png"
+ },
+ {
+  "id": "Yorick",
+  "key": 83,
+  "name": "Yorick",
+  "title": "Shepherd of Souls",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 6,
+   "defense": 6,
+   "magic": 4
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "ally-support",
+   "slows",
+   "mobility",
+   "health-scaling",
+   "summons"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yorick.png"
+ },
+ {
+  "id": "Yunara",
+  "key": 804,
+  "name": "Yunara",
+  "title": "the Unbroken Faith",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 575,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 9,
+   "defense": 2,
+   "magic": 0
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "crit",
+   "slows",
+   "mobility",
+   "damage-over-time",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yunara.png"
+ },
+ {
+  "id": "Yuumi",
+  "key": 350,
+  "name": "Yuumi",
+  "title": "the Magical Cat",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 425,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 5,
+   "defense": 1,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "crit",
+   "healing",
+   "shielding",
+   "ally-support",
+   "slows",
+   "mobility",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yuumi.png"
+ },
+ {
+  "id": "Zaahen",
+  "key": 904,
+  "name": "Zaahen",
+  "title": "The Unsundered",
+  "patch": "16.22.1",
+  "roles": [
+   "Fighter"
+  ],
+  "resource": "Mana",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 8,
+   "defense": 6,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "mobility",
+   "health-scaling",
+   "stacking"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zaahen.png"
+ },
+ {
+  "id": "Zac",
+  "key": 154,
+  "name": "Zac",
+  "title": "the Secret Weapon",
+  "patch": "16.22.1",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "resource": "None",
+  "attackRange": 175,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 3,
+   "defense": 7,
+   "magic": 7
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "on-hit",
+   "empowered-attacks",
+   "healing",
+   "hard-cc",
+   "slows",
+   "mobility",
+   "health-scaling"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zac.png"
+ },
+ {
+  "id": "Zed",
+  "key": 238,
+  "name": "Zed",
+  "title": "the Master of Shadows",
+  "patch": "16.22.1",
+  "roles": [
+   "Assassin"
+  ],
+  "resource": "Energy",
+  "attackRange": 125,
+  "rangeType": "melee",
+  "ratings": {
+   "attack": 9,
+   "defense": 2,
+   "magic": 1
+  },
+  "damageProfile": "physical",
+  "traits": [
+   "on-hit",
+   "slows",
+   "mobility"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zed.png"
+ },
+ {
+  "id": "Zeri",
+  "key": 221,
+  "name": "Zeri",
+  "title": "The Spark of Zaun",
+  "patch": "16.22.1",
+  "roles": [
+   "Marksman"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 8,
+   "defense": 5,
+   "magic": 3
+  },
+  "damageProfile": "mixed",
+  "traits": [
+   "on-hit",
+   "attack-speed",
+   "crit",
+   "empowered-attacks",
+   "slows",
+   "mobility",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zeri.png"
+ },
+ {
+  "id": "Ziggs",
+  "key": 115,
+  "name": "Ziggs",
+  "title": "the Hexplosives Expert",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 4,
+   "magic": 9
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ziggs.png"
+ },
+ {
+  "id": "Zilean",
+  "key": 26,
+  "name": "Zilean",
+  "title": "the Chronokeeper",
+  "patch": "16.22.1",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 2,
+   "defense": 5,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "ally-support",
+   "hard-cc",
+   "slows",
+   "mobility"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zilean.png"
+ },
+ {
+  "id": "Zoe",
+  "key": 142,
+  "name": "Zoe",
+  "title": "the Aspect of Twilight",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage"
+  ],
+  "resource": "Mana",
+  "attackRange": 550,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 1,
+   "defense": 7,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "empowered-attacks",
+   "hard-cc",
+   "mobility",
+   "summons",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zoe.png"
+ },
+ {
+  "id": "Zyra",
+  "key": 143,
+  "name": "Zyra",
+  "title": "Rise of the Thorns",
+  "patch": "16.22.1",
+  "roles": [
+   "Mage",
+   "Support"
+  ],
+  "resource": "Mana",
+  "attackRange": 575,
+  "rangeType": "ranged",
+  "ratings": {
+   "attack": 4,
+   "defense": 3,
+   "magic": 8
+  },
+  "damageProfile": "magic",
+  "traits": [
+   "healing",
+   "hard-cc",
+   "slows",
+   "stealth",
+   "resets",
+   "summons",
+   "stacking",
+   "long-range-abilities"
+  ],
+  "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zyra.png"
+ }
+]
